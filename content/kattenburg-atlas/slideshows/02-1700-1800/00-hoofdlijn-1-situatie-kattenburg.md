@@ -13,7 +13,7 @@ zoom: 14
 
 # Vestiging, bloei en neergang
 
-**1\. Situatie van Kattenburg **
+**1\. Kattenburg rond 1700 **
 
 Rond 1700 was het eiland Kattenburg uitgegroeid tot een wijk met scheepswerven en woonhuizen. Aan de westelijke kant van het eiland lag sinds 1656 de admiraliteitswerf ’s Lands werf of ’s lands Hok genaamd. Toen de admiraliteit van Amsterdam in 1660 grond erbij kocht, besloeg de admiraliteitswerf de gehele lengte van Kattenburg. Helemaal tot aan het IJ.[^1] Op deze kaart is goed te zien hoe de werf niet alleen een deel van het eiland besloeg maar daarnaast ook een veel groter deel in het water naast Kattenburg. In dit water konden boten aanleggen aan de talloze palen. Dit water gaf toegang tot de werf en werd afgeschermd door rijen van palen. Op de hoeken stonden wachttorentjes. De admiraliteitswerf was dus veel groter dan de strook land op Kattenburg. 
 
