@@ -47,10 +47,19 @@ jobs:
         working-directory: slides-app
         run: pnpm install --frozen-lockfile
 
+      - name: Check public configuration
+        env:
+          PUBLIC_PROTOMAPS_KEY: ${{ vars.PUBLIC_PROTOMAPS_KEY }}
+        run: |
+          if [ -z "$PUBLIC_PROTOMAPS_KEY" ]; then
+            echo "::warning title=Missing PUBLIC_PROTOMAPS_KEY::Set PUBLIC_PROTOMAPS_KEY as a repository variable to enable Protomaps tiles."
+          fi
+
       - name: Build static site
         working-directory: slides-app
         env:
           PUBLIC_URL: ${{ vars.PUBLIC_URL || format('/{0}', github.event.repository.name) }}
+          PUBLIC_PROTOMAPS_KEY: ${{ vars.PUBLIC_PROTOMAPS_KEY }}
         run: pnpm build
 
       - name: Disable Jekyll processing
