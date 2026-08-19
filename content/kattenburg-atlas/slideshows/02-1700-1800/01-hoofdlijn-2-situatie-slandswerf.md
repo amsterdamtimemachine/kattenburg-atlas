@@ -1,5 +1,5 @@
 ---
-title: Vestiging, bloei en neergang
+title: 's Lands Werf, vijftig jaar in gebruik
 description: 
 warpedMaps:
     url: https://annotations.allmaps.org/images/82c54d8b3567fcff

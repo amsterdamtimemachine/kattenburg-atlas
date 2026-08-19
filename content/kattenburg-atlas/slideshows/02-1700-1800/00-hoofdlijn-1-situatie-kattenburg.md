@@ -1,5 +1,5 @@
 ---
-title: Vestiging, bloei en neergang
+title: Kattenburg rond 1700
 description: 
 warpedMaps:
     url: https://annotations.allmaps.org/images/140653574c8ec524
