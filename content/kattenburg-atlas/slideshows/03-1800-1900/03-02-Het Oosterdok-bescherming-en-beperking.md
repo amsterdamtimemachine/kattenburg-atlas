@@ -1,5 +1,5 @@
 --- 
-title: Het Oosterdok: bescherming én beperking
+title: Het Oosterdok; bescherming en beperking
 description: Malaise nieuwe bloei en innovatie
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
@@ -17,4 +17,3 @@ Maar dezelfde oplossing zou later een probleem worden. De werf lag nu niet meer 
 In 1832 voer de lijkvaart van de Amsterdamse zeeheld Jan van Speijk door de oostersluis in aanbouw. Op dit schilderij van Hendrik Vettewinkel zijn links een aantal gebouwen van de Rijkswerf en s’ Lands Zeemagazijn te zien en rechts op de achtergrond de Kattenburgerbrug.[^1] 
 
 [^1]:  Henk Dessens, “Het Oosterdok, van zeehaven tot stadswater”, in *Het Oosterdok: verhalen van een Amsterdamse haven*, Geheel herziene, geactualiseerde en tweetalige uitgave., door Titus Dekker (Walburg Pers, 2020).
-
