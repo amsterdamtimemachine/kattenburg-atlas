@@ -1,5 +1,5 @@
 ---
-title: Vestiging, bloei en neergang
+title: 's Lands Werf, vijftig jaar in gebruik
 description: 
 warpedMaps:
     url: https://annotations.allmaps.org/images/82c54d8b3567fcff
@@ -13,7 +13,7 @@ zoom: 14
 
 # Vestiging, bloei en neergang
 
-**2\. Situatie ’s Lands Werf: vijftig jaar in gebruik ** 
+**Situatie ’s Lands Werf: vijftig jaar in gebruik** 
 
 Kenmerkend voor de admiraliteitswerf was het grote magazijn dat op de hoek van Kattenburg stond. Dit imposante gebouw, ’s lands magazijn genoemd, was van verre te zien en bereikbaar over land en water. Het magazijn, nu het Scheepvaartsmuseum, was ontworpen door Daniel Stalpaert. Hij ontwierp voor de nieuwe admiraliteitswerf ook een poortgebouw. Dit gebouw bestond uit een hoofdpoort met aan beide kanten vleugels: een geheel van ongeveer 107 meter lang. In het poortgebouw werden werkplaatsen, kantoren en enkele woonhuizen gevestigd. Rond 1700 was dit poortgebouw verder uitgebreid tot een rij aaneengesloten gebouwen langs de gehele Kattenburgerstraat, zo’n 353 meter lang. De gebouwen werden de Voorwerf genoemd en vormden samen een muur die de werf afschermd28e van de rest van Kattenburg. Men kon alleen naar binnen door de poort. De Kattenburgerstraat vormde een grens op het eiland.[^1] 
 

@@ -1,5 +1,5 @@
 ---
-title: Kattenburg als militair-facilitair bedrijf
+title: Verkrotting en vernieuwing 
 description: 
 center:
   - 4.918

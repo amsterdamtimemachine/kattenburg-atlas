@@ -1,0 +1,22 @@
+---
+title: Tweedeling, een echte grens op Kattenburg? 
+description: 
+ WarpedMaps:
+  url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
+  homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
+  caption: Stadsarchief Amsterdam
+center:
+  - 4.918
+  - 52.371
+zoom: 14
+---
+
+# Kattenburg als militair-facilitair bedrijf
+
+**Tweedeling: een echte grens op Kattenburg?**
+
+Er wordt meestal gesproken van de wederopbouw van Kattenburg. Maar niet heel het eiland was besloten in het plan. De grens van het *Wederopbouwplan Oostelijke Eilanden*, liep duidelijk over de (Grote) Kattenburgerstraat: ‘langs de westelijke rooilijn van de Grote Kattenburgerstraat, zodat de werf niet in het plan is begrepen’, aldus *het Wederopbouwplan*. De oude scheepswerf, inmiddels het marine-etablissement, was geïsoleerd van de plannen. Ook in deze periode, fungeerde de Kattenburgerstraat als grens op het eiland.
+
+Vervolgens werd de Kattenburgerstraat ook nog eens flink verbreed. De straat was een veelgebruikte verbinding tussen de binnenstad en het Oostelijk Havengebied maar was hier eigenlijk veel te smal voor. Aan beide kanten van de nieuwe weg kwamen fietspaden en een groene strook met bomen tussen de straat en huizen. Een groot verschil met de nauwe straat die twee-en-een-halve eeuw tussen de werfmuur en de woningen had gelopen.[^1] Met de flinke verbreding van de Kattenburgerstraat was de grens tussen het Marineterrein misschien wel nadrukkelijker dan ooit. Nu, de bewoners van Kattenburg ook niet meer collectief werkzaam waren op de werf werd het Marineterrein echt afgescheiden van de rest van Kattenburg. 
+
+[^1]:  Kruizinga, *Adieu Kattenburg* 160\. 
