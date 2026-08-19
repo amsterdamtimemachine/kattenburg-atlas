@@ -60,6 +60,7 @@ jobs:
         env:
           PUBLIC_URL: ${{ vars.PUBLIC_URL || format('/{0}', github.event.repository.name) }}
           PUBLIC_PROTOMAPS_KEY: ${{ vars.PUBLIC_PROTOMAPS_KEY }}
+          PUBLIC_SLIDES_SINGLE_PROJECT_ROOT: ${{ vars.PUBLIC_SLIDES_SINGLE_PROJECT_ROOT }}
         run: pnpm build
 
       - name: Disable Jekyll processing
