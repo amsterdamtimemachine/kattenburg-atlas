@@ -1,18 +1,15 @@
 --- 
-title: Negentiende Eeuw
+title: Het Oosterdok: bescherming én beperking
 description: Malaise nieuwe bloei en innovatie
+warpedMaps:
+  - url: https://annotations.allmaps.org/images/0f676347626202ae
+    homepage: https://uvaerfgoed.nl/viewer/!metadata/11245_3_1303/1/-/
+    caption: Allard Pierson 
 center:
   - 4.918
   - 52.371
 zoom: 14
-warpedMaps:
-  - url: hhttps://annotations.allmaps.org/images/dd7f60a45d9e2c5c
-    homepage: https://archief.amsterdam/beeldbank/detail/7a51aac2-5dea-b6d9-5c19-2894f12b916e
-    caption: Stadsarchief Amsterdam
 ---
-
-**2\. Het Oosterdok: bescherming én beperking**
-
 In 1828 werd besloten om dijken en sluizen rond het Oosterdok aan te leggen. Voor Amsterdam was dat een ingreep van groot belang. Het Oosterdok werd een afgesloten binnenwater, beter beschermd tegen eb, vloed en verzanding. Voor de marinewerf leek dat aanvankelijk gunstig: schepen konden veiliger liggen en de haven werd beter beheersbaar. 
 
 Maar dezelfde oplossing zou later een probleem worden. De werf lag nu niet meer direct open aan het IJ. Grote schepen moesten via sluizen naar buiten. Voor houten oorlogsschepen was dat nog te doen, maar de negentiende eeuw bracht grotere, zwaardere en dieper stekende marineschepen. De toegang tot het Oosterdok werd daarmee een flessenhals. Op kaarten is dit goed te zien. Het Marineterrein ligt als een technische enclave achter water, dijken en sluizen. Dat maakte de plek veilig, maar ook kwetsbaar voor schaalvergroting.
