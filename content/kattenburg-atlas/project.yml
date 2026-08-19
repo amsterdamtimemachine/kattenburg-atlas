@@ -1,0 +1,9 @@
+id: kattenburg-atlas
+slug: kattenburg-atlas
+title: Kattenburg Atlas
+description: A story map atlas for Kattenburg.
+
+slideshows:
+  - id: main
+    path: slideshows/main
+    title: Kattenburg Atlas
