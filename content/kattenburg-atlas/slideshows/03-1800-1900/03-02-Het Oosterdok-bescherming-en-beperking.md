@@ -1,13 +1,14 @@
 --- 
 title: Het Oosterdok: bescherming én beperking
 description: Malaise nieuwe bloei en innovatie
-location:
-  # center: [4.9170172, 52.3741874]
-  # zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://uvaerfgoed.nl/viewer/!metadata/11245_3_1303/1/-/
     caption: Allard Pierson 
+center:
+  - 4.918
+  - 52.371
+zoom: 14
 ---
 In 1828 werd besloten om dijken en sluizen rond het Oosterdok aan te leggen. Voor Amsterdam was dat een ingreep van groot belang. Het Oosterdok werd een afgesloten binnenwater, beter beschermd tegen eb, vloed en verzanding. Voor de marinewerf leek dat aanvankelijk gunstig: schepen konden veiliger liggen en de haven werd beter beheersbaar. 
 
