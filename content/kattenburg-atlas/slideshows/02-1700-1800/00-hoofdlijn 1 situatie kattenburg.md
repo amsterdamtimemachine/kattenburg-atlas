@@ -1,6 +1,10 @@
 ---
 title: Vestiging, bloei en neergang
 description: 
+warpedMaps:
+    url: https://annotations.allmaps.org/images/140653574c8ec524
+    homepage: https://archief.amsterdam/inventarissen/scans/10033/1.9.6/start/0/limit/10/highlight/1
+    caption: Stadsarchief Amsterdam
 center:
   - 4.918
   - 52.371

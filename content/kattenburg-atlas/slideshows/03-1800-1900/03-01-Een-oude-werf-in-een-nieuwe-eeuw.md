@@ -5,6 +5,10 @@ center:
   - 4.918
   - 52.371
 zoom: 14
+warpedMaps:
+  - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
+    homepage: https://archief.amsterdam/
+    caption: Stadsarchief Amsterdam
 ---
 
 # Kattenburg Atlas
