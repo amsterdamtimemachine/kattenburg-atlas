@@ -1,10 +1,9 @@
 ---
 title: Een oude werf in een nieuwe eeu
 description: Malaise nieuwe bloei en innovatie
-center:
-  - 4.918
-  - 52.371
-zoom: 14
+location:
+  # center: [4.9170172, 52.3741874]
+  # zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
     homepage: https://archief.amsterdam/
@@ -13,3 +12,4 @@ warpedMaps:
 In de negentiende eeuw werd de Rijkswerf op het huidige marine terrein in Amsterdam opnieuw uitgevonden. De houten zeilschepen waarvoor de werf oorspronkelijk was ingericht, pasten steeds minder bij de eisen van de tijd. Oorlogsschepen kregen stoommachines, schroefvoortstuwing, ijzeren rompen en pantserplaten. Deze nieuwe schepen vroegen om andere hellingen, zwaardere werkplaatsen, nieuwe machines en meer technische kennis. Kattenburg veranderde daardoor van een traditionele scheepstimmerwerf in een industriële marinewerf.
 
 Die overgang moet op het terrein zichtbaar zijn geweest: meer ijzer, meer rook, meer lawaai, meer hijswerk. Waar vroeger hout, touw en zeildoek het beeld bepaalden, verschenen ketelmakerijen, smederijen en installaties voor ijzerbewerking. De werf bleef een afgesloten militaire wereld, maar achter de muren vond een van de belangrijkste technologische omslagen in de Nederlandse marinescheepsbouw plaats.
+

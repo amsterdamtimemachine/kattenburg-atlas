@@ -1,10 +1,9 @@
 --- 
 title: Het Oosterdok: bescherming én beperking
 description: Malaise nieuwe bloei en innovatie
-center:
-  - 4.918
-  - 52.371
-zoom: 14
+location:
+  # center: [4.9170172, 52.3741874]
+  # zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://uvaerfgoed.nl/viewer/!metadata/11245_3_1303/1/-/
