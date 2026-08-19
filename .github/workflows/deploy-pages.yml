@@ -1,0 +1,77 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out atlas content
+        uses: actions/checkout@v4
+        with:
+          path: atlas
+
+      - name: Prepare slides app
+        working-directory: atlas
+        env:
+          SLIDES_APP_DIR: ${{ github.workspace }}/slides-app
+          SLIDES_REF: ${{ vars.SLIDES_REF || 'main' }}
+        run: bash scripts/prepare-slides-app.sh
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: slides-app/pnpm-lock.yaml
+
+      - name: Install dependencies
+        working-directory: slides-app
+        run: pnpm install --frozen-lockfile
+
+      - name: Build static site
+        working-directory: slides-app
+        env:
+          PUBLIC_URL: ${{ vars.PUBLIC_URL || format('/{0}', github.event.repository.name) }}
+        run: pnpm build
+
+      - name: Disable Jekyll processing
+        working-directory: slides-app
+        run: touch build/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: slides-app/build
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
