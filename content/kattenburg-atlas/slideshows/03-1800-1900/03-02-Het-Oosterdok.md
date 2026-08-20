@@ -1,9 +1,9 @@
---- 
+---
 title: Het Oosterdok, bescherming en beperking
 warpedMaps:
-  - url: https://annotations.allmaps.org/images/0f676347626202ae
-    homepage: https://uvaerfgoed.nl/viewer/!metadata/11245_3_1303/1/-/
-    caption: Allard Pierson 
+  - url: https://annotations.allmaps.org/images/dd7f60a45d9e2c5c
+    homepage: https://archief.amsterdam/beeldbank/detail/7a51aac2-5dea-b6d9-5c19-2894f12b916e
+    caption: Stadsarchief Amsterdam
 center:
   - 4.918
   - 52.371
