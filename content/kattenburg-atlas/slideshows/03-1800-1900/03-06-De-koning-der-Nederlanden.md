@@ -1,5 +1,5 @@
 ---
-title: De Koning der Nederlanden en de aanleg van het Noordzeekanaal
+title: De *Koning der Nederlanden* en de aanleg van het Noordzeekanaal
 warpedMaps:
   - url: https://annotations.allmaps.org/images/40817b596ddddf14
     homepage: https://archief.amsterdam/beeldbank/detail/442cb083-f4c6-94c1-a08b-3cfa56813b2b
@@ -9,11 +9,11 @@ center:
   - 52.371
 zoom: 16
 ---
-Het ramtorenschip ZR.MS. Koning der Nederlanden laat goed zien hoe snel de marinetechniek veranderde. In 1870 was het met een totale lengte van ongeveer 85 meter en een waterverplaatsing van 5285 ton het grootste schip dat tot dan toe in Nederland was ontworpen en gebouwd. De ontwerpers moesten echter noodgedwongen rekening houden met de afmetingen van bestaande vaarwegen en sluizen waardoor het achterschip een wat gedrongen vorm kreeg, wat waarschijnlijk nadelig was voor de toestroom van water naar de schroef en dus voor de snelheid.
+Het ramtorenschip *ZR.MS. Koning der Nederlanden* laat goed zien hoe snel de marinetechniek veranderde. In 1870 was het met een totale lengte van ongeveer 85 meter en een waterverplaatsing van 5285 ton het grootste schip dat tot dan toe in Nederland was ontworpen en gebouwd. De ontwerpers moesten echter noodgedwongen rekening houden met de afmetingen van bestaande vaarwegen en sluizen waardoor het achterschip een wat gedrongen vorm kreeg, wat waarschijnlijk nadelig was voor de toestroom van water naar de schroef en dus voor de snelheid.
 
   hier afbeelding invoegen: ![alt text](image-4.png)
 
-De Koning der Nederlanden legde hiermee een voor Amsterdam oud probleem bloot: de toegang tot zee. Het IJ slibde dicht, de route via de Zuiderzee was omslachtig en het Noordhollandsch Kanaal uit 1824 bleek te beperkt voor grotere vaartuigen.[^6]
+De *Koning der Nederlanden* legde hiermee een voor Amsterdam oud probleem bloot: de toegang tot zee. Het IJ slibde dicht, de route via de Zuiderzee was omslachtig en het Noordhollandsch Kanaal uit 1824 bleek te beperkt voor grotere vaartuigen.[^6]
 
   naar kaart uit 1875: toont de nieuwe route naar zee door het Noordzeekanaal.
 
