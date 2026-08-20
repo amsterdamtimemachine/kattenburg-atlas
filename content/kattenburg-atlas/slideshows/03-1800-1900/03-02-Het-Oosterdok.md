@@ -1,5 +1,5 @@
 --- 
-title: 2. Het Oosterdok bescherming en beperking
+title: Het Oosterdok, bescherming en beperking
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://uvaerfgoed.nl/viewer/!metadata/11245_3_1303/1/-/

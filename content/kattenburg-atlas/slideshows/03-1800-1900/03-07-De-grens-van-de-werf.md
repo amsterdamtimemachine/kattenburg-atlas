@@ -1,5 +1,5 @@
 ---
-title: 7. De grens van de werf
+title: De grens van de werf
 warpedMaps:
   - url: https://annotations.allmaps.org/images/68066f5d52bfe57a
     homepage: https://hdl.handle.net/11245/3.1246
