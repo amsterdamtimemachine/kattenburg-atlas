@@ -1,6 +1,5 @@
 ---
-title: Een oude werf in een nieuwe eeu
-description: Malaise nieuwe bloei en innovatie
+description: 1. Een oude werf in een nieuwe eeuw
 warpedMaps:
   - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
     homepage: https://archief.amsterdam/

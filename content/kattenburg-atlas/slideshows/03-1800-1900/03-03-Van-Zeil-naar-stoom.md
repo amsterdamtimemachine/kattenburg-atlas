@@ -1,6 +1,5 @@
 ---
-title: Van zeil naar stoom
-description: Malaise nieuwe bloei en innovatie
+description: 3. Van zeil naar stoom
 warpedMaps:
   - url: https://annotations.allmaps.org/images/17638464caa772a5
     homepage: https://archief.amsterdam/beeldbank/detail/88f82330-590b-d86a-b241-3865496f2584/media/c74e96ae-3609-ce51-1d11-d5dce8486fc5?mode=detail&view=horizontal&q=vogelvluchtkaart%20dilcher&rows=1&page=1

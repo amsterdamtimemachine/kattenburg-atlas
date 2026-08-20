@@ -1,6 +1,5 @@
 ---
-title: Tideman en het rekenen aan schepen
-description: Malaise nieuwe bloei en innovatie
+description: 5. Tideman en het rekenen aan schepen
 warpedMaps:
     url: https://annotations.allmaps.org/images/140653574c8ec524
     homepage: https://archief.amsterdam/inventarissen/scans/10033/1.9.6/start/0/limit/10/highlight/1
