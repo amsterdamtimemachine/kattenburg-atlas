@@ -1,5 +1,5 @@
 ---
-title: Van zeil naar stoom
+title: Pantserplaten op Kattenburg
 description: Malaise nieuwe bloei en innovatie
 warpedMaps:
   - url: https://annotations.allmaps.org/images/17638464caa772a5
