@@ -1,8 +1,8 @@
 ---
 title: Een oude werf in een nieuwe eeuw
 warpedMaps:
-  - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
-    homepage: https://archief.amsterdam/
+  - url: https://annotations.allmaps.org/images/dd7f60a45d9e2c5c
+    homepage: https://archief.amsterdam/beeldbank/detail/7a51aac2-5dea-b6d9-5c19-2894f12b916e
     caption: Stadsarchief Amsterdam
 center:
   - 4.918
