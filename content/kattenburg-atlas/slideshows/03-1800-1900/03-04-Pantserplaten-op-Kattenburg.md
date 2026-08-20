@@ -13,7 +13,9 @@ In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren 
 
 Een pantserschip vroeg veel meer van een werf dan een houten fregat. IJzeren platen moesten worden gevormd, verhit, bevestigd en gecombineerd met zware kanonnen, stoommachines en bepantserde torens. De werf werd daardoor zwaarder, industriëler en technischer. 
 
-In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreiding van het treinspoor in Nederland. De Oosterspoorweg, die deels liep over de Oosterdijk, moest de hoofdstad gaan verbinden met het oosten van het land. Dit betekende dat er een draaiende spoorbrug over de Oostersluis werd geplaats waardoor schepen voor het in- en uitvaren van de werf afhankelijk werden van de openingstijden van de spoorbrug.
+In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreiding van het treinspoor in Nederland. De Oosterspoorweg, die deels liep over de Oosterdijk en te zien op deze kaart, moest de hoofdstad gaan verbinden met het oosten van het land. Dit betekende dat er een draaiende spoorbrug over de Oostersluis werd geplaats waardoor schepen voor het in- en uitvaren van de werf afhankelijk werden van de openingstijden van de spoorbrug.
+
+  Hier afbeelding invoegen: ![alt text](image-1.png)
 
 [^4]:  Lintsen en Bakker, *Geschiedenis van de techniek in Nederland*; Doorn van, “Cultuurhistorisch onderzoek en waardering Deel 1: het terrein”, 35\.
 
