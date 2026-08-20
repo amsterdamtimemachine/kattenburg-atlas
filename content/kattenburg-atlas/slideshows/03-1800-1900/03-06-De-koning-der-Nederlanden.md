@@ -1,5 +1,5 @@
 ---
-description: 6. De Koning der Nederlanden en de aanleg van het Noordzeekanaal
+title: 6. De Koning der Nederlanden en de aanleg van het Noordzeekanaal
 warpedMaps:
   - url: https://annotations.allmaps.org/images/40817b596ddddf14
     homepage: https://archief.amsterdam/beeldbank/detail/442cb083-f4c6-94c1-a08b-3cfa56813b2b

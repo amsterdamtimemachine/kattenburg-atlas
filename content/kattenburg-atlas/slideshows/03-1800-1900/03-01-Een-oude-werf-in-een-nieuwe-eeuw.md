@@ -1,5 +1,5 @@
 ---
-description: 1. Een oude werf in een nieuwe eeuw
+title: 1. Een oude werf in een nieuwe eeuw
 warpedMaps:
   - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
     homepage: https://archief.amsterdam/
