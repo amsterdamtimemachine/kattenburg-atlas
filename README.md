@@ -26,8 +26,7 @@ pnpm exec slides dev --config ../slides.config.yml
 ```
 
 While the dev server is running, edit files in this repository's `content/`
-folder. Vite imports the content package directly, so edits should reload without
-a sync step.
+folder.
 
 Refresh that sparse clone when you want the latest app code:
 
@@ -41,13 +40,12 @@ Build from the linked sparse checkout:
 
 ```sh
 cd .slides-app
-SLIDES_BASE_PATH=/kattenburg-atlas PUBLIC_PROTOMAPS_KEY=... pnpm exec slides build --config ../slides.config.yml
+pnpm exec slides build --config ../slides.config.yml
 ```
 
 The content lives in `content/kattenburg-atlas`. Project assets can be placed in
 `content/kattenburg-atlas/assets`. The `content/` folder is also a workspace
-package named `@allmaps/slides-content`. Because this atlas config enables
-`routing.singleProjectRoot`, assets are served under `/assets`.
+package named `@allmaps/slides-content`.
 
 ## Deployment
 
@@ -56,8 +54,3 @@ Pushes to `main` run `.github/workflows/deploy-pages.yml`. The workflow clones
 workspace, builds with `slides.config.yml`, and deploys
 `apps/slides/build` to GitHub Pages. During the build, this repository's
 `content/` folder is symlinked into the Slides workspace.
-
-Set repository variables named `SLIDES_REF`, `SLIDES_BASE_PATH`, or
-`SLIDES_PUBLIC_URL` to build against a specific branch/tag or custom deployed
-path. Set `PUBLIC_PROTOMAPS_KEY` to pass the Protomaps key into the deployed
-static app.
