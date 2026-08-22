@@ -15,7 +15,7 @@ Maar dezelfde oplossing zou later een probleem worden. De werf lag nu niet meer 
 
 In 1832 voer de lijkvaart van de Amsterdamse zeeheld Jan van Speijk door de oostersluis in aanbouw. 
 
-    Hier afbeelding invoegen: ![alt text](image.png)
+    <!-- Hier afbeelding invoegen: ![alt text](image.png) -->
 
 Op dit schilderij van Hendrik Vettewinkel zijn links een aantal gebouwen van de Rijkswerf en s’ Lands Zeemagazijn te zien en rechts op de achtergrond de Kattenburgerbrug.[^1] 
 
