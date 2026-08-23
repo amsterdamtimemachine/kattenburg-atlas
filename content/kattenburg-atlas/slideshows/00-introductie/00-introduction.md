@@ -1,5 +1,5 @@
 ---
-title: Kattenburg Atlas
+title: Groei en ontwikkeling van Amsterdam tot aan de Tachtigjarige Oorlog
 description: 
 location:
   # center: [4.9170172, 52.3741874]

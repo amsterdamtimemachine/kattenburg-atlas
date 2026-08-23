@@ -21,7 +21,7 @@ De aanleg van het Noordzeekanaal moest dat veranderen. Vanaf 1865 werd gewerkt a
 
 Voor de Rijkswerf was het kanaal belangrijk, maar geen wondermiddel. Het maakte de route naar zee korter en strategisch aantrekkelijker voor moderne stoom- en pantserschepen. Tegelijk bleef de werf gebonden aan haar eigen ligging aan het Oosterdok, met sluizen, dokken en stedelijke infrastructuur direct om haar heen. Bovendien was het Noordzeekanaal bij de opening nog niet meteen diep genoeg voor alle grote schepen; verdere uitbaggering bleef nodig.
 
-De anekdote is veelzeggend: een schip kon bij de tewaterlating hypermodern lijken, maar bij ingebruikname alweer verouderd zijn. In de negentiende-eeuwse marinescheepsbouw liep innovatie voortdurend achter zichzelf aan. De werf moest blijven aanpassen, terwijl iedere oplossing tijdelijk was.
+Zo blijkt maar dat een schip bij de tewaterlating hypermodern kon lijken, terwijl het bij ingebruikname eigenlijk alweer verouderd was. In de negentiende-eeuwse marinescheepsbouw liep innovatie voortdurend achter de feiten aan. De werf moest blijven aanpassen, terwijl iedere oplossing tijdelijk leek.
 
   [^6]: *Geschiedenis van de Techniek in Nederland*. 4, 92.
   [^7]: Amsterdam, “1876 Noordzeekanaal”, webpagina, Stadsarchief, Gemeente Amsterdam, geraadpleegd 23 juni 2026, https://www.amsterdam.nl/stadsarchief/canon/venster/30/.
