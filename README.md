@@ -1,56 +1,27 @@
 # Kattenburg Atlas
 
-This repository contains the content for a `slides` atlas. The application code
-is pulled from [`allmaps/slides`](https://github.com/allmaps/slides) during the
-GitHub Pages build, while this repository keeps only the atlas content.
+Content package for [`allmaps/slides`](https://github.com/allmaps/slides).
 
 ## Local preview
 
-Use a sparse checkout of the reusable `slides` source and link this repository's
-content package into it:
+Clone `slides`, add this repository as a content package, and run the dev server with the package name:
 
 ```sh
-git clone --filter=blob:none --no-checkout https://github.com/allmaps/slides.git .slides-app
-git -C .slides-app sparse-checkout init --no-cone
-git -C .slides-app sparse-checkout set --no-cone "/*" "!/content/" "!/content/**"
-git -C .slides-app checkout main
-if [ -e .slides-app/content ] && [ ! -L .slides-app/content ]; then
-  echo ".slides-app/content exists and is not a symlink; remove or re-clone .slides-app first." >&2
-  exit 1
-fi
-rm -f .slides-app/content
-ln -s ../content .slides-app/content
-cd .slides-app
+git clone https://github.com/allmaps/slides.git
+cd slides
+git submodule add https://github.com/amsterdamtimemachine/kattenburg-atlas.git content/kattenburg-atlas
 pnpm install
-pnpm exec slides dev --config ../slides.config.yml
+pnpm exec slides dev kattenburg-atlas
 ```
 
-While the dev server is running, edit files in this repository's `content/`
-folder.
+Edit the files in `content/kattenburg-atlas/content/` while the dev server is running.
 
-Refresh that sparse clone when you want the latest app code:
+## Build
 
 ```sh
-git -C .slides-app pull
+pnpm exec slides build kattenburg-atlas
 ```
-
-## Local build
-
-Build from the linked sparse checkout:
-
-```sh
-cd .slides-app
-pnpm exec slides build --config ../slides.config.yml
-```
-
-The content lives in `content/kattenburg-atlas`. Project assets can be placed in
-`content/kattenburg-atlas/assets`. The `content/` folder is also a workspace
-package named `@allmaps/slides-content`.
 
 ## Deployment
 
-Pushes to `main` run `.github/workflows/deploy-pages.yml`. The workflow clones
-`allmaps/slides` with partial clone filtering and sparse checkout, installs the
-workspace, builds with `slides.config.yml`, and deploys
-`apps/slides/build` to GitHub Pages. During the build, this repository's
-`content/` folder is symlinked into the Slides workspace.
+Pushes to `main` run the GitHub Pages workflow. It checks out `slides` at the workspace root, checks out this repository at `content/kattenburg-atlas`, builds `kattenburg-atlas`, and deploys `apps/slides/build`.

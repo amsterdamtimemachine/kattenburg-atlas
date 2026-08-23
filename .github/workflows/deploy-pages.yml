@@ -13,31 +13,30 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out slides
+        uses: actions/checkout@v7
+        with:
+          repository: allmaps/slides
+          ref: ${{ vars.SLIDES_REF || 'main' }}
+          sparse-checkout: |
+            /*
+            !/content/
+            !/content/**
+          sparse-checkout-cone-mode: false
+
       - name: Check out content
-        uses: actions/checkout@v4
-
-      - name: Clone slides source
-        env:
-          SLIDES_REF: ${{ vars.SLIDES_REF || 'main' }}
-        run: |
-          git clone --filter=blob:none --no-checkout https://github.com/allmaps/slides.git slides-source
-          git -C slides-source sparse-checkout init --no-cone
-          git -C slides-source sparse-checkout set --no-cone "/*" "!/content/" "!/content/**"
-          git -C slides-source checkout "$SLIDES_REF"
-
-      - name: Link content package
-        run: |
-          rm -f slides-source/content
-          ln -s ../content slides-source/content
+        uses: actions/checkout@v7
+        with:
+          path: content/${{ github.event.repository.name }}
 
       - name: Set up pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
         with:
           version: 10
 
@@ -46,27 +45,31 @@ jobs:
         with:
           node-version: 24
           cache: pnpm
-          cache-dependency-path: slides-source/pnpm-lock.yaml
+          cache-dependency-path: pnpm-lock.yaml
 
       - name: Install dependencies
-        working-directory: slides-source
         run: pnpm install --frozen-lockfile
 
       - name: Build static site
-        working-directory: slides-source
-        run: pnpm exec slides build --config ../slides.config.yml
+        env:
+          CONTENT_PATH: content/${{ github.event.repository.name }}
+        run: |
+          package_name="$(jq -r '.name // empty' "$CONTENT_PATH/package.json")"
 
-      - name: Disable Jekyll processing
-        working-directory: slides-source
-        run: touch apps/slides/build/.nojekyll
+          if [ -z "$package_name" ]; then
+            echo "::error::Missing package name in $CONTENT_PATH/package.json"
+            exit 1
+          fi
+
+          pnpm exec slides build "$package_name"
 
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          path: slides-source/apps/slides/build
+          path: apps/slides/build
 
   deploy:
     environment:
@@ -77,4 +80,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
