@@ -1,14 +1,12 @@
 ---
-title: De werf buiten haar muren 
+title: Vestiging, bloei en neergang
 description: 
 center:
   - 4.918
   - 52.371
 zoom: 14
 ---
-# Vestiging, bloei en neergang
-
-**1\. De werf buiten haar muren **
+# De werf buiten haar muren 
 
  Het poortgebouw was lang de enige ingang tot de werf over land. Met uitzondering van een loopbruggetje vanuit het magazijn. De poort was bekroond met een timpaan en een stenen koepeltorentje waarin een uurwijzer en slagklok hingen. Bovenop stond een windwijzer in de vorm van een driemaster en de gekruiste ankers van de Admiraliteit. Het torentje verdween rond 1800 weer en de slagklok verplaatste naar het dak van het magazijn. De poort verschafte toegang tot de werf aan werklieden en sloot deze af voor onbevoegden. 
 
@@ -16,12 +14,12 @@ De bel in de klokkentoren gaf de werktijden aan: en daarmee ook wanneer de poort
 
 Tegelijkertijd kende de werf honderden werklieden die dagelijks de werf binnenkwamen om er hun brood te verdienen. De werf was immers een grote werkgever. In een werf-regelement uit 1744 wordt vastgesteld dat het aantal vaste werklieden in de wintermaanden werd gereduceerd tot 440 personen. In de zomerperiode, wanneer er meer werk was, waren er nog veel meer werklieden aanwezig\! Ook dagloners verzamelde zich dagelijks voor de poort opzoek naar een klus.[^2]  De toegang tot de werf was beperkt en werd strikt gehandhaafd. Voor dit grote aantal werklieden was de werf hun dagelijkse bestaan en namen de werf mee tot buiten haar muren. Ze ontleenden er identiteit en cultuur aan: zowel individueel als collectief. Misschien wel bij uitstek omdat de meesten er pal naast woonden. Eén van de plaatselijke cafés had de naam ’t Onvolmaakte Schip: als dat geen werfcultuur pur sang is...[^3]
 
-<!-- Hier moet een afbeelding komen --> ( en misschien nog een tweede afbeelding als ik die kan vinden)
-url: https://archief.amsterdam/beeldbank/detail/72659f71-f1f8-9fda-cd70-af3111809ac8/media/46aec11c-f91e-171e-87c4-a7bc9bc8256d?mode=detail&view=horizontal&q=Gebouw%20langs%20de%20timmerwerf%20van%20het%20magazijn&rows=1&page=2
+<!-- Hier moet een afbeelding komen 
+url: https://archief.amsterdam/beeldbank/detail/72659f71-f1f8-9fda-cd70-af3111809ac8/media/46aec11c-f91e-171e-87c4-a7bc9bc8256d?mode=detail&view=horizontal&q=Gebouw%20langs%20de%20timmerwerf%20van%20het%20magazijn&rows=1&page=2 --> 
 
 
 [^1]:  Alan Arthur Lemmers *Van werf tot facilitair complex: 350 jaar marinegeschiedenis op Kattenburg* (Den Haag 2005\) 57\.
 
 [^2]:  Nationaal Archief, 1.01.47.03, inv. nr. 4, Admiraliteitscolleges III Van Alphen. 
 
-[^3]:  Stadsarchief Amsterdam te Amsterdam (NL-AM-SA), Collectie Stadsarchief Amsterdam bibliotheek (2.1.3.) (CoStAmBi), inv. nr. 145820, Ontmoetingen en Byzonderheden van Johannes Janse de Wilde, geduurende den tijd dat hy als boekhouder… gefungeerd heeft by de castelein Antonie Meyer, in het wynhuis ’t Onvolmaakte Schip, 1787
+[^3]:  Stadsarchief Amsterdam te Amsterdam (NL-AM-SA), Collectie Stadsarchief Amsterdam bibliotheek (2.1.3.) (CoStAmBi), inv. nr. 145820, Ontmoetingen en Byzonderheden van Johannes Janse de Wilde, geduurende den tijd dat hy als boekhouder… gefungeerd heeft by de castelein Antonie Meyer, in het wynhuis ’t Onvolmaakte Schip, 1787.
