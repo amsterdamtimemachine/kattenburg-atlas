@@ -1,14 +1,12 @@
 ---
-title: De werf buiten haar muren 
+title: Vestiging, bloei en neergang
 description: 
 center:
   - 4.918
   - 52.371
 zoom: 14
 ---
-# Vestiging, bloei en neergang
-
-**1\. De werf buiten haar muren **
+# De werf buiten haar muren 
 
  Het poortgebouw was lang de enige ingang tot de werf over land. Met uitzondering van een loopbruggetje vanuit het magazijn. De poort was bekroond met een timpaan en een stenen koepeltorentje waarin een uurwijzer en slagklok hingen. Bovenop stond een windwijzer in de vorm van een driemaster en de gekruiste ankers van de Admiraliteit. Het torentje verdween rond 1800 weer en de slagklok verplaatste naar het dak van het magazijn. De poort verschafte toegang tot de werf aan werklieden en sloot deze af voor onbevoegden. 
 

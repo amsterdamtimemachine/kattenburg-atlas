@@ -1,5 +1,5 @@
 ---
-title: Tweedeling, een echte grens op Kattenburg? 
+title: Kattenburg als militair-facilitair bedrijf
 description: 
  WarpedMaps:
   url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
@@ -11,9 +11,7 @@ center:
 zoom: 14
 ---
 
-# Kattenburg als militair-facilitair bedrijf
-
-**Tweedeling: een echte grens op Kattenburg?**
+# Tweedeling: een grens op Kattenburg? 
 
 Er wordt meestal gesproken van de wederopbouw van Kattenburg. Maar niet heel het eiland was besloten in het plan. De grens van het *Wederopbouwplan Oostelijke Eilanden*, liep duidelijk over de (Grote) Kattenburgerstraat: ‘langs de westelijke rooilijn van de Grote Kattenburgerstraat, zodat de werf niet in het plan is begrepen’, aldus *het Wederopbouwplan*. De oude scheepswerf, inmiddels het marine-etablissement, was geïsoleerd van de plannen. Ook in deze periode, fungeerde de Kattenburgerstraat als grens op het eiland.
 
