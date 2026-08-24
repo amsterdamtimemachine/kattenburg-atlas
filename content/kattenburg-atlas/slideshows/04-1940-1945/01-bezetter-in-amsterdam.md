@@ -7,6 +7,9 @@ center:
 zoom: 14
 ---
 
-## Verzet
+## Bezetter op Kattenburg
 
-Tijdens de Tweede Wereldoorlog waren er verschillende verzetsgroepen actief in Amsterdam. Zo waren er verzetsgroepen die, met gevaar voor eigen leven, informatie over de bezetter verzamelden en die doorgaven aan de Geallieerden. De verzetsgroepen hielden onder andere bij hoeveel Duitsers er in de stad waren, waar de Duitsers in de stad zaten en waar het luchtafweergeschut stond opgesteld. Het Marine-Etablissement was relatief licht verdedigd met enkel de muur, wachtposten en af en toe kleine antitankkanonnen. Zwaardere verdedigingen zoals bunkers en luchtafweergeschut stonden op andere plekken in de stad, zoals het Museumplein en in de haven. Via smokkelroutes wisten de verzetsgroepen de informatie naar Engeland te smokkelen.
+De aanwezigheid van de Kriegsmarine op het Marine-Etablissement is zeer vreemd. De Kriegsmarine was verantwoordelijk voor de kustverdediging van onder andere Nederland. Amsterdam werd door de Duitsers niet gezien als een strategisch punt voor de kustverdediging. Steden zoals IJmuiden, Den Helder, Rotterdam en Vlissingen waren veel belangrijker voor de kustverdediging.[^4] De Hafenkommandant, de hoogste bevelhebber van de Kriegsmarine in Amsterdam, viel ook niet onder de bredere commandostructuur die verantwoordelijk was voor de Nederlandse kustbescherming. 
+
+
+[^4]:  Bundesarchiv militärarchiv, RW 4, ’OKW/ Wehrmachtführungsstab’. Inv.nr. 632, ‘Versorgungsführung im Westen.- Allgemeines, Festungen, Kampfstützpunkte, Widerstandsnester, Feste Plätze, Kanalinseln’.

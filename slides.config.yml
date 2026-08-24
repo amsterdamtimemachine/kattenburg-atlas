@@ -1,0 +1,11 @@
+site:
+  # basePath: kattenburg-atlas
+  publicUrl: https://amsterdamtimemachine.github.io/kattenburg-atlas/
+
+routing:
+  singleProjectRoot: true
+
+protomaps:
+  key: 4c541e68dd0eec0a
+
+interface: {}

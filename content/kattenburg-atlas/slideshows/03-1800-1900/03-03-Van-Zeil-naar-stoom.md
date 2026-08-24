@@ -1,6 +1,5 @@
 ---
 title: Van zeil naar stoom
-description: Malaise nieuwe bloei en innovatie
 warpedMaps:
   - url: https://annotations.allmaps.org/images/17638464caa772a5
     homepage: https://archief.amsterdam/beeldbank/detail/88f82330-590b-d86a-b241-3865496f2584/media/c74e96ae-3609-ce51-1d11-d5dce8486fc5?mode=detail&view=horizontal&q=vogelvluchtkaart%20dilcher&rows=1&page=1
@@ -12,7 +11,7 @@ zoom: 14
 ---
 Door het sluiten van de Marinewerven in Rotterdam in 1850 en later ook Vlissingen in 1868 werd de Rijkswerf in Amsterdam de belangrijkste leverancier van schepen voor de Marine. Deze ontwikkeling bracht nieuw leven in werf en dok: Kappen werden hersteld, hellingen en beschoeiing vernieuwd, vervallen loodsen afgebroken, en bestrating aangelegd.[^2] 
 
-In 1852 begon de bouw van de *Medusa*, het eerste stoomoorlogsschip van de Nederlandse marine dat in 1854 te water werd gelaten. Kort daarna volgden meer stoomschepen. Rond 1870 bestond een groot deel van de marinevloot al uit stoomschepen.[^3] 
+In 1852 begon de bouw van de *Medusa*, het eerste stoomoorlogsschip van de Nederlandse marine dat in 1854 te water werd gelaten. Kort daarna volgden meer stoomschepen. Op deze vogelvluchtkaart van Heinrich Dilcher van omstreeks 1857 zie je nog voornamelijk houten zeilschepen, maar als je goed kijkt ook een paar stoomschepen. Rond 1870 bestond een groot deel van de marinevloot al uit stoomschepen.[^3] 
 
 Voor de werf betekende dit een andere manier van werken. Een stoomschip was niet zomaar een zeilschip met een machine erin. De romp moest worden aangepast aan de schroef, de schroefas moest waterdicht door het achterschip lopen, en de plaatsing van machines, ketels en kolenvoorraad beïnvloedde het hele ontwerp. De werf op Kattenburg werd een plek waar ambachtelijke ervaring en ingenieurskennis elkaar moesten vinden. Dat ging niet vanzelf. Oude werkmethoden bleven bestaan, terwijl nieuwe technieken werden ingevoerd.
 
