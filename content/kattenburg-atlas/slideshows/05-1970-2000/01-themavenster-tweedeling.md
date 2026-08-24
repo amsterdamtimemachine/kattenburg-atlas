@@ -19,4 +19,4 @@ Er wordt meestal gesproken van de wederopbouw van Kattenburg. Maar niet heel het
 
 Vervolgens werd de Kattenburgerstraat ook nog eens flink verbreed. De straat was een veelgebruikte verbinding tussen de binnenstad en het Oostelijk Havengebied maar was hier eigenlijk veel te smal voor. Aan beide kanten van de nieuwe weg kwamen fietspaden en een groene strook met bomen tussen de straat en huizen. Een groot verschil met de nauwe straat die twee-en-een-halve eeuw tussen de werfmuur en de woningen had gelopen.[^1] Met de flinke verbreding van de Kattenburgerstraat was de grens tussen het Marineterrein misschien wel nadrukkelijker dan ooit. Nu, de bewoners van Kattenburg ook niet meer collectief werkzaam waren op de werf werd het Marineterrein echt afgescheiden van de rest van Kattenburg. 
 
-[^1]:  Kruizinga, *Adieu Kattenburg* 160\. 
+[^1]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* 160. 
