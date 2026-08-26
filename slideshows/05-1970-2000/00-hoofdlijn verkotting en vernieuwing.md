@@ -26,5 +26,5 @@ url:https://archief.amsterdam/inventarissen/scans/10057/237.40/start/0/limit/10/
 De sloop van Kattenburg betekende grote veranderingen voor de wijk. In de plaats van de gesloopte huizenblokken kwam nieuwbouw. Ook de activiteiten op en rond het Marineterrein veranderenden van vorm. De aanleg van de IJ-tunnel zorgde voor een ingrijpende verandering op de kaart van het Marineterrein. 
 Van het oude Kattenburg zelf bleef eigenlijk niets over. Zelfs de historische gevels aan het Kattenburgerplein zijn een reconstructie...
 
-[^1] J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 179.
-[^2] J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 165, 160. 
+[^1]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 179.
+[^2]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 165, 160. 
