@@ -3,7 +3,7 @@ title: Tideman en het rekenen aan schepen
 warpedMaps:
   - url: https://annotations.allmaps.org/images/24e1c323d0614019
     homepage: https://n2t.net/ark:/33862/collect/655435
-    caption: "Plattegrond van de Rijkswerf te Amsterdam (1894) met uitvoerige Verklaring van gebouwen, hellingen, werkplaatsen, magazijnen, ligplaatsen Zr,Ms. 'Admiraal van Wassenaar', 'Vulkaan", het Wachtschip 'Prins Maurits der Nederlanden' en Zr.Ms. 'Anna Paulowna'"
+    caption: "Plattegrond van de Rijkswerf te Amsterdam (1894)"
 ---
 
 <!--
