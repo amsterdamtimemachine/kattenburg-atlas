@@ -7,7 +7,10 @@ warpedMaps:
 ---
 Aan het einde van de negentiende eeuw werd duidelijk dat de modernisering van de Rijkswerf ook haar grenzen had. De schepen werden groter, zwaarder en dieper. De werf kon technisch veel, maar haar ligging aan het Oosterdok werd steeds problematischer. De nauwe sluisdoorgangen maakten het moeilijk om grote moderne stalen schepen naar het IJ te krijgen. Later betekende ook het spoortracé over de Oosterdoksdijk een verdere beperking van het Oosterdok als zeehaven. 
 
- <!-- hier afbeelding invoegen: [text](https://collectie.hetscheepvaartmuseum.nl/details/museum/655365)) -->
+<!-- Anoniem, Uitvoerige plattegrond van de Rijkswerf te Amsterdam (1894) met gas- en waterleiding. Gebouwen, werkplaatsen, magazijnen, hellingen etc, 1894, technische tekening, objectnummer S.5079(02), Collectie Het Scheepvaartmuseum, Amsterdam, 
+n2t.net/ark:/33862/collect/655365. 
+IIIF: https://collectie.hetscheepvaartmuseum.nl/IIIF/collect/655365/manifest.json
+-->
 
 Dat maakt de geschiedenis van de negentiende-eeuwse werf dubbelzinnig. Kattenburg was een plek van modernisering: hier werden ijzeren schepen gebouwd, pantserplaten verwerkt en scheepsmodellen getest. Maar dezelfde plek lag vast in een stedelijke waterstructuur die steeds minder geschikt was voor de schaal van de moderne oorlogsvloot.
 

@@ -7,7 +7,9 @@ warpedMaps:
 ---
 Het ramtorenschip *ZR.MS. Koning der Nederlanden* laat goed zien hoe snel de marinetechniek veranderde. In 1870 was het met een totale lengte van ongeveer 85 meter en een waterverplaatsing van 5285 ton het grootste schip dat tot dan toe in Nederland was ontworpen en gebouwd. De ontwerpers moesten echter noodgedwongen rekening houden met de afmetingen van bestaande vaarwegen en sluizen waardoor het achterschip een wat gedrongen vorm kreeg, wat waarschijnlijk nadelig was voor de toestroom van water naar de schroef en dus voor de snelheid.
 
-  <!-- hier afbeelding invoegen: ![alt text](image-4.png) -->
+<!-- G.R. Lambert & Co., Nederlands schip in een dok van de Tanjong Pagar Dock Co. Ltd. in Singapore, ca. 1890-1905, foto, objectnummer RP-F-F01140-C, Rijksmuseum, Amsterdam, https://id.rijksmuseum.nl/200336154. 
+IIIF: https://i.micr.io/TDqLF/info.json
+-->
 
 De *Koning der Nederlanden* legde hiermee een voor Amsterdam oud probleem bloot: de toegang tot zee. Het IJ slibde dicht, de route via de Zuiderzee was omslachtig en het Noordhollandsch Kanaal uit 1824 bleek te beperkt voor grotere vaartuigen.[^6]
 
