@@ -5,7 +5,7 @@ warpedMaps:
   - url: https://annotations.allmaps.org/images/586259c72bfcaa1c
     homepage: https://archief.amsterdam/beeldbank/detail/6ca68d17-4e4f-4815-6223-f2afec2cd7d8
     caption: Stadsarchief Amsterdam
-  - path: assets/annotations/stippenkaart.json
+  - url: assets/annotations/stippenkaart.json
     homepage: https://proxy.archieven.nl/298/B9DD8340DC5E4BC99A657BCF33AC6E57
     caption: NIOD
 ---

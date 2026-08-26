@@ -4,6 +4,8 @@ description:
 location:
   center: [4.918, 52.371]
   zoom: 14
+warpedMaps:
+  - url: https://annotations.allmaps.org/maps/d91a696a9b834198
 ---
 Op 10 mei 1940 werd Nederland binnengevallen door Nazi-Duitsland. Na zware gevechten tekende generaal Winkelman op 15 mei de capitulatie van Nederland. Diezelfde dag trokken Duitse troepen over de Berlagebrug Amsterdam binnen. Verschillende gebouwen in Amsterdam werden gebruikt door de bezetter. Het Museumplein was het hoofdkwartier van de bezetter en op de Gerrit van der Veenstraat stond het hoofdkwartier van Duitse Veiligheidsdienst. 
 
