@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 Aan het einde van de Derde Uitleg richtte het Amsterdamse stadsbestuur zijn aandacht opnieuw op het oostelijke havengebied. In de jaren 1640 werden plannen ontwikkeld voor Fort Kattenburg, ten oosten van Rapenburg.
 

@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 Tijdens de Eerste en Tweede Uitleg kwam de Lastage, die eeuwenlang buiten de stad had gelegen, binnen de nieuwe vestingwerken te liggen. De aanwezige scheepswerven namen veel ruimte in en werden steeds meer omringd door nieuwe bebouwing.
 

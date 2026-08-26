@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 Hoewel de werven zich naar Uilenburg, de Marcken en Rapenburg verplaatsten, bleef de Oude Waal een essentieel onderdeel van het scheepsbouwproces. Deze brede inham in het IJ bood een beschutte ligplaats waar schepen na hun tewaterlating verder konden worden afgebouwd en uitgerust.
 

@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 Vanaf 1613 begon Amsterdam aan de Derde Uitleg. De stad breidde vooral naar het westen uit, maar deze ontwikkeling had ook gevolgen voor de scheepsbouw. Door de bevolkingsgroei werd bouwgrond binnen de stad steeds schaarser en werden voormalige werkterreinen aantrekkelijker als woongebied.
 

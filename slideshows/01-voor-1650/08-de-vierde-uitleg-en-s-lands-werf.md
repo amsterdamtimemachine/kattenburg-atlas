@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 De Vierde Uitleg vormde het sluitstuk van een ontwikkeling waarbij de Amsterdamse scheepsbouw bijna twee eeuwen lang steeds verder naar de randen van de stad was opgeschoven. De Lastage, Uilenburg, de Marcken en Rapenburg waren uiteindelijk te klein geworden voor grootschalige scheepsbouw.
 

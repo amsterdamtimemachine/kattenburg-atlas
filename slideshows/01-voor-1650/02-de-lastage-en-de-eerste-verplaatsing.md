@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 In de vijftiende eeuw ontwikkelde Amsterdam zich tot een belangrijk centrum van scheepvaart en internationale handel. De stad bestond grotendeels uit houten bebouwing en werd in 1421 en 1452 getroffen door grote branden. Brandgevaarlijke activiteiten moesten daarom steeds meer buiten of aan de rand van de stad plaatsvinden.
 

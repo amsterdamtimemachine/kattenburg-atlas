@@ -1,10 +1,8 @@
 ---
-title: Vestiging, bloei en neergang
+title: De werf buiten haar muren
 description: 
 ---
-# De werf buiten haar muren 
-
- Het poortgebouw was lang de enige ingang tot de werf over land. Met uitzondering van een loopbruggetje vanuit het magazijn. De poort was bekroond met een timpaan en een stenen koepeltorentje waarin een uurwijzer en slagklok hingen. Bovenop stond een windwijzer in de vorm van een driemaster en de gekruiste ankers van de Admiraliteit. Het torentje verdween rond 1800 weer en de slagklok verplaatste naar het dak van het magazijn. De poort verschafte toegang tot de werf aan werklieden en sloot deze af voor onbevoegden. 
+Het poortgebouw was lang de enige ingang tot de werf over land. Met uitzondering van een loopbruggetje vanuit het magazijn. De poort was bekroond met een timpaan en een stenen koepeltorentje waarin een uurwijzer en slagklok hingen. Bovenop stond een windwijzer in de vorm van een driemaster en de gekruiste ankers van de Admiraliteit. Het torentje verdween rond 1800 weer en de slagklok verplaatste naar het dak van het magazijn. De poort verschafte toegang tot de werf aan werklieden en sloot deze af voor onbevoegden. 
 
 De bel in de klokkentoren gaf de werktijden aan: en daarmee ook wanneer de poort opende en sloot. De poort ging namelijk ook tijdens het werk dicht\! ’s Ochtens opende de poort om de werklieden binnen te laten. Tijdens het middagmaal ging de poort weer een uurtje open en bleef vervolgens dicht tot aan het einde van de werkdag. De werktijden werden tot aan het sluiten van de werf in 1915 aangegeven met de bel die over heel Kattenburg te horen was.[^1] Er waren dus strikte momenten van toegang en beweging. Toegang was gekoppeld aan het werk. De werklieden bepaalden niet zelf wanneer ze de werf op en af liepen. Hoewel de meeste werklieden naast de werf op Kattenburg woonden was ook voor hun het grootste deel van het eiland niet openbaar. 
 

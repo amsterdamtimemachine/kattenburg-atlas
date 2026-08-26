@@ -4,10 +4,10 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
+# warpedMaps:
+#   - url: 
+#     homepage: 
+#     caption: 
 ---
 Aan het einde van de zestiende eeuw veranderde Amsterdam in hoog tempo. De Tachtigjarige Oorlog, de Alteratie van 1578 en vooral de val van Antwerpen in 1585 zorgden voor een toestroom van kooplieden, ambachtslieden en kapitaal uit de Zuidelijke Nederlanden.
 
