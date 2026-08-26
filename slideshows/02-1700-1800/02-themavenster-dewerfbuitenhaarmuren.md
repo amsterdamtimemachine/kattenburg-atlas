@@ -3,7 +3,7 @@ title: De werf buiten haar muren
 description: 
 location:
   center: [4.9170722,52.3720721]
-  zoom: 14
+  zoom: 20
 warpedMaps:
   url: https://annotations.allmaps.org/images/82c54d8b3567fcff
   homepage: https://archief.amsterdam/inventarissen/scans/10095/1.2.2.1.5/start/0/limit/10/highlight/1
