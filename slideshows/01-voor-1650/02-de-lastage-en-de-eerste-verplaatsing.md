@@ -2,8 +2,8 @@
 title: De Lastage en de eerste verplaatsing van de scheepsbouw
 description: 
 location:
-  # center: [4.9170172, 52.3741874]
-  # zoom: 16
+  center: [4.9170172, 52.3741874]
+  zoom: 16
 warpedMaps:
   - url: 
     homepage: 

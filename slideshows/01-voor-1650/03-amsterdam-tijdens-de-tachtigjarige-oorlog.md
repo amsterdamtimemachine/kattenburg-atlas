@@ -2,8 +2,8 @@
 title: Amsterdam tijdens de Tachtigjarige Oorlog
 description: 
 location:
-  # center: [4.9170172, 52.3741874]
-  # zoom: 16
+  center: [4.9170172, 52.3741874]
+  zoom: 16
 warpedMaps:
   - url: 
     homepage: 

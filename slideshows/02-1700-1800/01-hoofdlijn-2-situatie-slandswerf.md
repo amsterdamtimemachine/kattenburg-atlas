@@ -2,13 +2,9 @@
 title: Vestiging, bloei en neergang 
 description: 
 warpedMaps:
-    url: https://annotations.allmaps.org/images/82c54d8b3567fcff
-    homepage: https://archief.amsterdam/inventarissen/scans/10095/1.2.2.1.5/start/0/limit/10/highlight/1
-    caption: Stadsarchief Amsterdam 
-center:
-  - 4.918
-  - 52.371'
-zoom: 14
+  url: https://annotations.allmaps.org/images/82c54d8b3567fcff
+  homepage: https://archief.amsterdam/inventarissen/scans/10095/1.2.2.1.5/start/0/limit/10/highlight/1
+  caption: Stadsarchief Amsterdam 
 ---
 
 # 'S Lands Werf: vijftig jaar in gebruik 

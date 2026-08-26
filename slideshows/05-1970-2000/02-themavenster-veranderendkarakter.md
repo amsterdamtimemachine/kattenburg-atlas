@@ -1,14 +1,13 @@
 ---
 title: Kattenburg als militair-facilitair bedrijf
 description: 
- WarpedMaps:
+warpedMaps:
   url: https://annotations.allmaps.org/images/7aba1ec54d1c7d00
   homepage: https://archief.amsterdam/inventarissen/scans/10057/340.72/start/0/limit/10/highlight/4
   caption: Stadsarchief Amsterdam
-center:
-  - 4.918
-  - 52.371
-zoom: 14
+location:
+  # center: [4.918, 52.371]
+  # zoom: 14
 ---
 
 # Een veranderend karakter: licht, ruimte en speeltuinen

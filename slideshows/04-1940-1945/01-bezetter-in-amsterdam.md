@@ -1,10 +1,9 @@
 ---
 title: Oorlog, bezetting, nasleep
 description: 
-center:
-  - 4.918
-  - 52.371
-zoom: 14
+location:
+  center: [4.918, 52.371]
+  zoom: 14
 ---
 
 ## Bezetter op Kattenburg

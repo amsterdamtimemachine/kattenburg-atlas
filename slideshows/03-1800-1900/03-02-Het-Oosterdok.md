@@ -4,10 +4,6 @@ warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://hdl.handle.net/11245/3.1303
     caption: UBA/Allard Pierson
-center:
-  - 4.918
-  - 52.371
-zoom: 20
 ---
 In 1828 werd besloten om dijken en sluizen rond het Oosterdok aan te leggen. Voor Amsterdam was dat een ingreep van groot belang. Het Oosterdok werd een afgesloten binnenwater, beter beschermd tegen eb, vloed en verzanding. Voor de marinewerf leek dat aanvankelijk gunstig: schepen konden veiliger liggen en de haven werd beter beheersbaar. 
 

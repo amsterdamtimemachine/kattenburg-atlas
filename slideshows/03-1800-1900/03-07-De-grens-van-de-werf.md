@@ -4,10 +4,6 @@ warpedMaps:
   - url: https://annotations.allmaps.org/images/68066f5d52bfe57a
     homepage: https://hdl.handle.net/11245/3.1246
     caption: UBA/Allard Pierson
-center:
-  - 4.918
-  - 52.371
-zoom: 20
 ---
 Aan het einde van de negentiende eeuw werd duidelijk dat de modernisering van de Rijkswerf ook haar grenzen had. De schepen werden groter, zwaarder en dieper. De werf kon technisch veel, maar haar ligging aan het Oosterdok werd steeds problematischer. De nauwe sluisdoorgangen maakten het moeilijk om grote moderne stalen schepen naar het IJ te krijgen. Later betekende ook het spoortracé over de Oosterdoksdijk een verdere beperking van het Oosterdok als zeehaven. 
 

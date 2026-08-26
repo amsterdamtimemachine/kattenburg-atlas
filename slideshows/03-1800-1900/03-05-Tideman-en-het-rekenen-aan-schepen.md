@@ -1,13 +1,5 @@
 ---
 title: Tideman en het rekenen aan schepen
-warpedMaps:
-    url: 
-    homepage: 
-    caption: 
-center:
-  - 4.918
-  - 52.371
-zoom: 14
 ---
 
   Zo mogelijk als kaart, anders hier als afbeelding invoegen:

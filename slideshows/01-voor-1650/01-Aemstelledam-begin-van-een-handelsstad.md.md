@@ -1,13 +1,6 @@
 ---
 title: Aemstelledam, het begin van een handelsstad
 description: 
-location:
-  # center: [4.9170172, 52.3741874]
-  # zoom: 16
-warpedMaps:
-  - url: 
-    homepage: 
-    caption: 
 ---
 Vanaf de elfde eeuw werd het veengebied langs de rivier de Amstel steeds intensiever ontgonnen waardoor landbouw mogelijk werd. Door zware stormvloeden zoals de *Allerheiligenvloed* in 1170 ontstond via het IJ een directe verbinding naar zee zodat ook scheepvaart mogelijk werd. Op de plek waar de Amstel kon worden overgestoken werd omstreeks 1250 een dam aangelegd. Hier ontstond een kleine nederzetting van vooral vissers en boeren: Aemstelledam, het begin van Amsterdam.
 

@@ -1,14 +1,13 @@
 ---
 title: Verkrotting en vernieuwing 
 description: 
- WarpedMaps:
+warpedMaps:
   url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
   homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
   caption: Stadsarchief Amsterdam
-center:
-  - 4.918
-  - 52.371
-zoom: 14
+location:
+  # center: [4.918, 52.371]
+  # zoom: 14
 ---
 
 # Verkrotting en vernieuwing 

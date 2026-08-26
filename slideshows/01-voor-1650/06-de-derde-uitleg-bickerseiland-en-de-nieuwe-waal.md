@@ -1,9 +1,9 @@
 ---
-title: De Derde Uitleg: Bickerseiland en de Nieuwe Waal
+title: "De Derde Uitleg: Bickerseiland en de Nieuwe Waal"
 description: 
 location:
-  # center: [4.9170172, 52.3741874]
-  # zoom: 16
+  center: [4.9170172, 52.3741874]
+  zoom: 16
 warpedMaps:
   - url: 
     homepage: 

@@ -1,10 +1,6 @@
 ---
 title: Vestiging, bloei en neergang
 description: 
-center:
-  - 4.918
-  - 52.371
-zoom: 14
 ---
 # De werf buiten haar muren 
 
