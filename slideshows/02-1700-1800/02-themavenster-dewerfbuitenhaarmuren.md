@@ -14,8 +14,8 @@ De bel in de klokkentoren gaf de werktijden aan: en daarmee ook wanneer de poort
 
 Tegelijkertijd kende de werf honderden werklieden die dagelijks de werf binnenkwamen om er hun brood te verdienen. De werf was immers een grote werkgever. In een werf-regelement uit 1744 wordt vastgesteld dat het aantal vaste werklieden in de wintermaanden werd gereduceerd tot 440 personen. In de zomerperiode, wanneer er meer werk was, waren er nog veel meer werklieden aanwezig\! Ook dagloners verzamelde zich dagelijks voor de poort opzoek naar een klus.[^2]  De toegang tot de werf was beperkt en werd strikt gehandhaafd. Voor dit grote aantal werklieden was de werf hun dagelijkse bestaan en namen de werf mee tot buiten haar muren. Ze ontleenden er identiteit en cultuur aan: zowel individueel als collectief. Misschien wel bij uitstek omdat de meesten er pal naast woonden. Eén van de plaatselijke cafés had de naam ’t Onvolmaakte Schip: als dat geen werfcultuur pur sang is...[^3]
 
-<!-- Hier moet een afbeelding komen 
-url: https://archief.amsterdam/beeldbank/detail/72659f71-f1f8-9fda-cd70-af3111809ac8/media/46aec11c-f91e-171e-87c4-a7bc9bc8256d?mode=detail&view=horizontal&q=Gebouw%20langs%20de%20timmerwerf%20van%20het%20magazijn&rows=1&page=2 --> 
+<!-- https://archief.amsterdam/beeldbank/detail/72659f71-f1f8-9fda-cd70-af3111809ac8 -->
+[Gebouw langs de timmerwerf van het magazijn](assets/images/stadsarchief-amsterdam/010056916960.jpg)
 
 
 [^1]:  Alan Arthur Lemmers *Van werf tot facilitair complex: 350 jaar marinegeschiedenis op Kattenburg* (Den Haag 2005\) 57\.

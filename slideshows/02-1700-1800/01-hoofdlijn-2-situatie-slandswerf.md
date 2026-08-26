@@ -17,8 +17,8 @@ Kenmerkend voor de admiraliteitswerf was het grote magazijn dat op de hoek van K
 
 Al die gebouwen waren nodig om de verschillende werkplaatsen, winkels genoemd, van de werf te huisvesten. Bijna alle benodigdheden voor de scheepsbouw werden gewoon vervaardigd op de Admiraliteitswerf zelf. Er was een mastenmakerij, een zeilmakerij, een kuiperij en een smederij. En er liepen tinnengieters, houtbewerkers, schrijversklerken, schilders, loodgieters, metselaars en sjouwers rond. Zelfs kompassen en wapens werden op de werf gemaakt. Al snel was het eerste magazijn niet meer toereikend genoeg en werd er een tweede ‘het agterste magazijn’ gebouwd aan de IJ-kant van de werf.[^2] 
 
-<!-- hiet moet een afbeelding komen 
-url: https://archief.amsterdam/beeldbank/detail/7d4825de-bb99-8b64-d81f-38749ee157d3/media/3eb8ce0b-d9a9-02fb-b31e-5229b0563fe9?mode=detail&view=horizontal&q=Kattenburg&rows=1&page=12&fq%5B%5D=search_i_sk_date:%5B1400%20TO%201800%5D&filterAction -->
+<!-- https://archief.amsterdam/beeldbank/detail/7d4825de-bb99-8b64-d81f-38749ee157d3 -->
+['s Lands Werf op Kattenburg](https://images.memorix.nl/ams/iiif/3eb8ce0b-d9a9-02fb-b31e-5229b0563fe9/full/1024,/0/default.jpg)
 
 [^1]:  Adviesgroep Monumenten in Rijksbezit *Bouwhistorische aantekening Het Voorwerfgebouw* (1985) 4-6.
 
