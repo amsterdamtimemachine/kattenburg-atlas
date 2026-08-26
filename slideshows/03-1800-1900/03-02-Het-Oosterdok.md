@@ -1,5 +1,8 @@
 ---
 title: Het Oosterdok, bescherming en beperking
+location:
+  center: [4.9111172,52.376273]
+  zoom: 16
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://hdl.handle.net/11245/3.1303
@@ -11,9 +14,8 @@ Maar dezelfde oplossing zou later een probleem worden. De werf lag nu niet meer 
 
 In 1832 voer de lijkvaart van de Amsterdamse zeeheld Jan van Speijk door de oostersluis in aanbouw. 
 
-<!-- Hendrik, Vettewinkel, De plegtstatige lijkvaart van het stoffelijk overschot van Jan Carel Josephus van Speijk, 4 mei 1832, tekening, Collectie Atlas Dreesmann, Stadsarchief Amsterdam, https://archief.amsterdam/beeldbank/detail/68140eea-f196-13f6-f6e8-bce9a582cd67. 
-IIIF: https://images.memorix.nl/ams/iiif/d7f451e0-f1c8-7578-2773-6e65a77363ee/info.json
--->
+<!-- https://archief.amsterdam/beeldbank/detail/68140eea-f196-13f6-f6e8-bce9a582cd67.  -->
+![Hendrik, Vettewinkel, De plegtstatige lijkvaart van het stoffelijk overschot van Jan Carel Josephus van Speijk, 4 mei 1832, tekening, Collectie Atlas Dreesmann, Stadsarchief Amsterdam](https://images.memorix.nl/ams/iiif/d7f451e0-f1c8-7578-2773-6e65a77363ee/full/1024,/0/default.jpg)
 
 Op dit schilderij van Hendrik Vettewinkel zijn links een aantal gebouwen van de Rijkswerf en s’ Lands Zeemagazijn te zien en rechts op de achtergrond de Kattenburgerbrug.[^1] 
 
