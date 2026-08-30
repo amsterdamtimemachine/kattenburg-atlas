@@ -1,9 +1,6 @@
 ---
 title: Bezetter in de stad
 description: 
-location:
-  center: [4.918, 52.371]
-  zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/images/7daaeb05f5c40a74
     homepage: https://proxy.archieven.nl/0/478CEEF5DF024BA2E0538A77ABC202B3

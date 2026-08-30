@@ -1,9 +1,6 @@
 ---
 title: Bommen op Amsterdam
 description: 
-location:
-  center: [4.918, 52.371]
-  zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/images/534b6d8ba08faded
     homepage: https://beeldbankwo2.nl/nl/beelden/detail/c2600d58-025a-11e7-904b-d89d6717b464/media/5ac4d260-ab74-70b0-3dd1-4718c59d2e5f

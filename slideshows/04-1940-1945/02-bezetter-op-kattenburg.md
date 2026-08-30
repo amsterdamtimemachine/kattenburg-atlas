@@ -1,9 +1,6 @@
 ---
 title: Bezetter op Kattenburg
 description: 
-location:
-  center: [4.918, 52.371]
-  zoom: 14
 warpedMaps:
   - url: https://annotations.allmaps.org/images/9682e30dbffc70b9
     homepage: https://proxy.archieven.nl/2231/2BD51B83A0D341FC8B3489A688E56036
