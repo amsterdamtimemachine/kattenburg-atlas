@@ -4,11 +4,13 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-# warpedMaps:
-#   - url: 
-#     homepage: 
-#     caption: 
+  warpedMaps:
+   - url: 
+     homepage: 
+     caption: 
 ---
+<--- deze kaart gebruiken https://archief.amsterdam/beeldbank/detail/24300661-020c-84d1-5c6c-8f4d9d501d55/media/44b61c26-f39f-7360-5d43-6ad96612b7ce?mode=detail is in het stadsarchief gegeorefereerd, maar ik kan geen IIIF of annotatie vinden --->
+
 Hoewel de werven zich naar Uilenburg, de Marcken en Rapenburg verplaatsten, bleef de Oude Waal een essentieel onderdeel van het scheepsbouwproces. Deze brede inham in het IJ bood een beschutte ligplaats waar schepen na hun tewaterlating verder konden worden afgebouwd en uitgerust.
 
 Op de werven werden vooral de rompen gebouwd. In de Oude Waal werden vervolgens masten geplaatst, tuigage aangebracht en schepen voorzien van ankers, geschut en voorraden. Nabijgelegen pakhuizen en werkplaatsen zorgden voor een snelle aanvoer van materialen.

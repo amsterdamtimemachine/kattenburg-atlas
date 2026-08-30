@@ -4,10 +4,11 @@ description:
 location:
   center: [4.9170172, 52.3741874]
   zoom: 16
-# warpedMaps:
-#   - url: 
-#     homepage: 
-#     caption: 
+warpedMaps:
+   - url: https://annotations.allmaps.org/images/d158837e5350cf80
+     homepage: https://archief.amsterdam/beeldbank/detail/36976241-ecf4-4ab2-042a-bbb23a98580f/media/330bc76e-200b-58c0-cfce-693df48d2eb6?mode=detail&view=horizontal&q=KOG-AA-3-01-71.&rows=1&page=1
+     caption: Stadsarchief Amsterdam
+     usebearing: true 
 ---
 Vanaf 1613 begon Amsterdam aan de Derde Uitleg. De stad breidde vooral naar het westen uit, maar deze ontwikkeling had ook gevolgen voor de scheepsbouw. Door de bevolkingsgroei werd bouwgrond binnen de stad steeds schaarser en werden voormalige werkterreinen aantrekkelijker als woongebied.
 
