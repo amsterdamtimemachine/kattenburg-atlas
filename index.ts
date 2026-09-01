@@ -3,60 +3,36 @@ type MarkdownModule = {
   metadata: Record<string, unknown>;
 };
 
-type IiifImageModule = {
-  relativePath?: string;
-  width?: number;
-  height?: number;
-  sizes?: Array<{
-    width: number;
-    height: number;
-    size: string;
-  }>;
-  formats?: string[];
-};
+const stripContentPrefix = <T>(files: Record<string, T>) =>
+  Object.fromEntries(
+    Object.entries(files).map(([key, value]) => [
+      key.replace(/^\.\/content\//, "./"),
+      value,
+    ]),
+  ) as Record<string, T>;
 
-type ImageModule = IiifImageModule | string;
+const rawProjectFiles = import.meta.glob("./content/*/project.yml", {
+  eager: true,
+  query: "?raw",
+  import: "default",
+}) as Record<string, string>;
 
-export const projectFiles = import.meta.glob(
-  ["./project.yml", "./*/project.yml"],
-  {
-    eager: true,
-    query: "?raw",
-    import: "default",
-  },
+const rawAssetUrls = import.meta.glob(
+  [
+    "./content/*/assets/**/*.{avif,AVIF,gif,GIF}",
+    "./content/*/assets/**/*.{geojson,GEOJSON,json,JSON}",
+    "./content/*/assets/**/*.{jpeg,JPEG,jpg,JPG,png,PNG}",
+    "./content/*/assets/**/*.{svg,SVG,tif,TIF,tiff,TIFF,webp,WEBP}",
+  ],
+  { eager: true, query: "?url", import: "default" },
 ) as Record<string, string>;
 
-export const dataAssetUrls = import.meta.glob(
-  [
-    "./assets/**/*.{geojson,GEOJSON,json,JSON}",
-    "./*/assets/**/*.{geojson,GEOJSON,json,JSON}",
-  ],
-  {
-    eager: true,
-    query: "?url",
-    import: "default",
-  },
-) as Record<string, string>;
+const rawSlideFiles = import.meta.glob("./content/*/slideshows/**/*.md", {
+  eager: true,
+}) as Record<string, MarkdownModule>;
 
-export const imageAssetUrls = import.meta.glob(
-  [
-    "./assets/images/**/*.{avif,AVIF,gif,GIF}",
-    "./assets/images/**/*.{jpeg,JPEG,jpg,JPG,png,PNG}",
-    "./assets/images/**/*.{tif,TIF,tiff,TIFF,webp,WEBP}",
-    "./*/assets/images/**/*.{avif,AVIF,gif,GIF}",
-    "./*/assets/images/**/*.{jpeg,JPEG,jpg,JPG,png,PNG}",
-    "./*/assets/images/**/*.{tif,TIF,tiff,TIFF,webp,WEBP}",
-  ],
-  {
-    eager: true,
-    query: "?url&iiif",
-    import: "default",
-  },
-) as Record<string, ImageModule>;
+export const projectFiles = stripContentPrefix(rawProjectFiles);
 
-export const slideFiles = import.meta.glob(
-  ["./slideshows/**/*.md", "./*/slideshows/**/*.md"],
-  {
-    eager: true,
-  },
-) as Record<string, MarkdownModule>;
+export const assetUrls = stripContentPrefix(rawAssetUrls);
+
+export const slideFiles = stripContentPrefix(rawSlideFiles);

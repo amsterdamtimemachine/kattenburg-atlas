@@ -14,7 +14,7 @@ pnpm install
 pnpm exec slides dev kattenburg-atlas
 ```
 
-Edit the files in `content/kattenburg-atlas/` while the dev server is running.
+Edit the files in `content/kattenburg-atlas/content/` while the dev server is running.
 
 ## Build
 

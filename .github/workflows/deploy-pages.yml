@@ -5,15 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
-    inputs:
-      reset_iiif_cache:
-        description: Delete existing IIIF derivative caches before building
-        required: false
-        default: false
-        type: boolean
 
 permissions:
-  actions: write
   contents: read
   pages: write
   id-token: write
@@ -56,22 +49,6 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-
-      - name: Cache IIIF derivatives
-        id: iiif-cache
-        uses: actions/cache@v6
-        with:
-          path: apps/slides/.svelte-kit/iiif
-          key: iiif-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: |
-            iiif-${{ runner.os }}
-
-      - name: Delete previous cache
-        run: gh cache delete iiif-${{ runner.os }}
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
 
       - name: Build static site
         env:
