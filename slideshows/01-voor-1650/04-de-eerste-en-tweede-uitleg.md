@@ -1,0 +1,19 @@
+---
+title: "De Eerste en Tweede Uitleg: Uilenburg, Marcken en Rapenburg"
+description: 
+location:
+  center: [4.9170172, 52.3741874]
+  zoom: 20
+warpedMaps:
+   - url: https://annotations.allmaps.org/images/c8b30ac72f64462b
+     homepage: https://archief.amsterdam/beeldbank/detail/4989a4ed-099b-3851-83ab-026e448adac6
+     caption: Stadsarchief Amsterdam
+     usebearing: true
+---
+Tijdens de Eerste en Tweede Uitleg kwam de Lastage, die eeuwenlang buiten de stad had gelegen, binnen de nieuwe vestingwerken te liggen. De aanwezige scheepswerven namen veel ruimte in en werden steeds meer omringd door nieuwe bebouwing.
+
+Het stadsbestuur besloot daarom scheepsbouwactiviteiten te verplaatsen naar nieuw aangeplempte gebieden ten oosten van de Lastage. Zo ontstonden vanaf de jaren 1590 Uilenburg, de Marcken en Rapenburg.
+
+Deze gebieden waren nadrukkelijk ingericht als werklandschappen, met scheepshellingen, houtopslagplaatsen en werkplaatsen langs het water. Toch bleken ook deze nieuwe locaties niet onbeperkt bruikbaar. Scheepstimmerlieden klaagden bijvoorbeeld dat de grachten rondom Uilenburg te smal waren om grotere schepen goed te water te laten. De groeiende scheepsbouw liep zo opnieuw tegen de ruimtelijke grenzen van de stad aan.
+
+<--- afbeelding invoegen https://archief.amsterdam/beeldbank/detail/4989a4ed-099b-3851-83ab-026e448adac6 met bijschrift Reinier Nooms, Het afloopen (tewaterlating) van een schip op de oude Oost-Indische werf op Rapenburg, prent, z.d. Collectie Atlas Splitgerber, Stadsarchief Amsterdam. --->
