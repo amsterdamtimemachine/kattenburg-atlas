@@ -8,7 +8,7 @@ description:
 center:
   - 4.91773
   - 52.37207
-zoom: 20
+zoom: 18
 ---
 
 # Tweedeling: een grens op Kattenburg? 
