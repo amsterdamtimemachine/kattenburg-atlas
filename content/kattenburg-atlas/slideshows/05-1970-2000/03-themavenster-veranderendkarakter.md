@@ -20,6 +20,9 @@ url: https://archief.amsterdam/beeldbank/detail/500a8f91-6bdd-8ec5-8fd4-4f14e6af
 
 Het eiland Kattenburg kende altijd een mengvorm van industrie en wonen. Er waren natuurlijk de scheepswerven, maar ook tussen de woningen hadden industriegebouwtjes en opslagplaatsen gestaan. Deze mengvorm en daarmee deels het industriële karakter van de wijk verdween met de komst van de nieuwbouw. De binnenterreinen tussen woningen waren in het nieuwe plan bestemd voor speeltuinen en gemeenschappelijke tuinen, helemaal in lijn met het licht en ruimte principe. Het *Wederopbouwplan*: ‘Het is echter wenselijk, dat een zich op het binnenterrein van een der bouwblokken bevindend industriegebouw en kolenopslagplaats in de toekomst verdwijnen en de hierdoor vrijkomende gronden voor de aanleg van gemeenschappelijke tuinen worden bestemd, die eventueel van een speelgelegenheid kunnen worden voorzien. 
 
+<!-- eventeueel zou hier nog deze afbeelding kunnen komen: het werkt goed bij het verhaal, maar raakt misscien een beetje vol qua foto;s. 
+urel: https://archief.amsterdam/beeldbank/detail/d45f9f2a-4ca0-0f50-8b06-f663065a5a6d/media/042d71b7-4327-a097-7e56-cadb4616af6f?mode=detail&view=horizontal&q=kattenburgerstraat&rows=1&page=184&fq%5B%5D=search_s_sr_download_of_print:%22Direct%22&filterAction -->
+
 <!-- hier mag een afbeelding komen 
 url: https://archief.amsterdam/beeldbank/detail/34ccfcab-3381-d8d9-39a6-d16e313d915b/media/9880d61f-a413-10ee-f905-b4f9453b8595?mode=detail&view=horizontal&q=Kattenburg&rows=1&page=157&fq%5B%5D=search_s_sk_documenttype:%22foto%22&fq%5B%5D=search_i_sk_date:%5B1950%20TO%202050%5D&sort=order_i_sk_date%20asc&filterAction -->
 
