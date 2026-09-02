@@ -16,4 +16,5 @@ Het stadsbestuur besloot daarom scheepsbouwactiviteiten te verplaatsen naar nieu
 
 Deze gebieden waren nadrukkelijk ingericht als werklandschappen, met scheepshellingen, houtopslagplaatsen en werkplaatsen langs het water. Toch bleken ook deze nieuwe locaties niet onbeperkt bruikbaar. Scheepstimmerlieden klaagden bijvoorbeeld dat de grachten rondom Uilenburg te smal waren om grotere schepen goed te water te laten. De groeiende scheepsbouw liep zo opnieuw tegen de ruimtelijke grenzen van de stad aan.
 
-<!-- afbeelding invoegen https://archief.amsterdam/beeldbank/detail/4989a4ed-099b-3851-83ab-026e448adac6 met bijschrift Reinier Nooms, Het afloopen (tewaterlating) van een schip op de oude Oost-Indische werf op Rapenburg, prent, z.d. Collectie Atlas Splitgerber, Stadsarchief Amsterdam. -->
+<!-- https://archief.amsterdam/beeldbank/detail/0518d8cb-b889-1a57-4c5e-e19513377b11 -->
+![Het Afloopen (tewaterlating) Van een Schip op de oude Oost-Indische Werf op Rapenburg](https://images.memorix.nl/ams/iiif/b53ab424-c9a7-e8d8-a904-dc0d3b791870/full/1024,/0/default.jpg)

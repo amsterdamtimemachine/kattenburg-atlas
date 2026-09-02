@@ -1,15 +1,15 @@
 ---
 title: De Oude Waal als drijvende scheepswerf
 description: 
-location:
-  center: [4.9170172, 52.3741874]
-  zoom: 16
-  warpedMaps:
-   - url: 
-     homepage: 
-     caption: 
+# location:
+#   center: [4.9170172, 52.3741874]
+#   zoom: 16
+warpedMaps:
+   - url: https://annotations.allmaps.org/maps/f146ad44fd83802c
+     homepage: https://archief.amsterdam/beeldbank/detail/24300661-020c-84d1-5c6c-8f4d9d501d55
+     caption: Kaart van gebied buiten Rapenburg (1641)
+     useBearing: true
 ---
-<!-- deze kaart gebruiken https://archief.amsterdam/beeldbank/detail/24300661-020c-84d1-5c6c-8f4d9d501d55/media/44b61c26-f39f-7360-5d43-6ad96612b7ce?mode=detail is in het stadsarchief gegeorefereerd, maar ik kan geen IIIF of annotatie vinden -->
 
 Hoewel de werven zich naar Uilenburg, de Marcken en Rapenburg verplaatsten, bleef de Oude Waal een essentieel onderdeel van het scheepsbouwproces. Deze brede inham in het IJ bood een beschutte ligplaats waar schepen na hun tewaterlating verder konden worden afgebouwd en uitgerust.
 

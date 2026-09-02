@@ -17,6 +17,7 @@ De oprichting van de Amsterdamse Admiraliteit in 1586 versterkte bovendien de ma
 
 Amsterdam groeide zo uit tot het belangrijkste handelscentrum van de Republiek. Tegelijkertijd werd de middeleeuwse stad te klein voor haar bevolking en maritieme bedrijvigheid. Nieuwe stadsuitbreidingen moesten daarom niet alleen woonruimte creëren, maar ook plaats bieden aan een snel groeiende scheepsbouw.
 
-<!-- afbeelding invoegen n2t.net/ark:/33862/collect/503186 bijschrift Anoniem. Model van een fluitschip, het veelgebruikte handelschip van de Amsterdamse kooplieden. Ca. 1650. Scheepsmodel. Collectie Het Scheepvaartmuseum, Amsterdam. Objectnr. A.0211. https://n2t.net/ark:/33862/collect/503186 -->
+<!-- n2t.net/ark:/33862/collect/503186 -->
+![Anoniem. Model van een fluitschip, het veelgebruikte handelschip van de Amsterdamse kooplieden. Ca. 1650. Scheepsmodel. Collectie Het Scheepvaartmuseum, Amsterdam. Objectnr. A.0211.](https://collectie.hetscheepvaartmuseum.nl/IIIF/908495/full/1024,/0/default.jpg)
 
 [^1]Marjolein ‘t Hart, The Dutch Wars of Independence: Warfare and Commerce in the Netherlands, 1570-1680 (New York: Routledge, 2014) p.129, 137, 139.
