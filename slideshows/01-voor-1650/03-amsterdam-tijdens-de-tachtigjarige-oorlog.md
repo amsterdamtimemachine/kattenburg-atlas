@@ -3,12 +3,13 @@ title: Amsterdam tijdens de Tachtigjarige Oorlog
 description: 
 location:
   center: [4.9170172, 52.3741874]
-  zoom: 16
+  # zoom: 10
 warpedMaps:
    - url: https://annotations.allmaps.org/images/bc63e1a0f091be95
      homepage: https://archief.amsterdam/beeldbank/detail/0595bd4a-4d4c-d6a6-4236-aefc055b491c/media/83a53484-6083-06f8-a152-49e92f8240f2?mode=detail&view=horizontal&q=Comitatus%20Hollandia&rows=1&page=1
      caption: Stadsarchief Amsterdam
-     UseBearing: true 
+     useBearing: true 
+     useZoom: true
 ---
 Aan het einde van de zestiende eeuw veranderde Amsterdam in hoog tempo. De Tachtigjarige Oorlog, de Alteratie van 1578 en vooral de val van Antwerpen in 1585 zorgden voor een toestroom van kooplieden, ambachtslieden en kapitaal uit de Zuidelijke Nederlanden.
 

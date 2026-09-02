@@ -3,12 +3,12 @@ title: "De Vierde Uitleg: Kattenburg en ’s Lands Werf"
 description: 
 location:
   center: [4.9170172, 52.3741874]
-  zoom: 16
+  zoom: 14
 warpedMaps:
    - url: https://annotations.allmaps.org/images/bac62e8003d0d5c7
      homepage: https://hdl.handle.net/11245/3.1387
      caption: Allard Pierson Amsterdam / UBA
-     usebearing: true
+     useBearing: true
 ---
 De Vierde Uitleg vormde het sluitstuk van een ontwikkeling waarbij de Amsterdamse scheepsbouw bijna twee eeuwen lang steeds verder naar de randen van de stad was opgeschoven. De Lastage, Uilenburg, de Marcken en Rapenburg waren uiteindelijk te klein geworden voor grootschalige scheepsbouw.
 

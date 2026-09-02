@@ -3,12 +3,12 @@ title: Fort Kattenburg
 description: 
 location:
   center: [4.9170172, 52.3741874]
-  zoom: 20
+  zoom: 14
 warpedMaps:
    - url: https://annotations.allmaps.org/images/5223ab01d753de80
      homepage: https://archief.amsterdam/beeldbank/detail/a68e7815-0f18-8978-c6ba-694baa824d3a
      caption: Stadsarchief Amsterdam
-     usebearing: true
+     useBearing: true
 ---
 <!-- hier invoegen https://archief.amsterdam/beeldbank/detail/7781aa1c-25b2-f566-ecc6-c86170acb944/media/c41ef6ab-9351-170f-e881-2034112bb076?mode=detail&view=horizontal&q=010094008129&rows=1&page=1&sort=order_i_sk_date%20asc met bijschrift Jean Boisseau, Profiel van Amsterdam gezien vanaf het IJ, prent, 1647, Collectie Atlas Dreesman, Stadsarchief Amsterdam. -->
 

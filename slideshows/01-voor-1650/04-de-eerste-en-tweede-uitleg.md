@@ -2,13 +2,13 @@
 title: "De Eerste en Tweede Uitleg: Uilenburg, Marcken en Rapenburg"
 description: 
 location:
-  center: [4.9170172, 52.3741874]
-  zoom: 20
+  # center: [4.9170172, 52.3741874]
 warpedMaps:
    - url: https://annotations.allmaps.org/images/c8b30ac72f64462b
      homepage: https://archief.amsterdam/beeldbank/detail/4989a4ed-099b-3851-83ab-026e448adac6
      caption: Stadsarchief Amsterdam
-     usebearing: true
+     useBearing: true
+    #  useZoom: true
 ---
 Tijdens de Eerste en Tweede Uitleg kwam de Lastage, die eeuwenlang buiten de stad had gelegen, binnen de nieuwe vestingwerken te liggen. De aanwezige scheepswerven namen veel ruimte in en werden steeds meer omringd door nieuwe bebouwing.
 
