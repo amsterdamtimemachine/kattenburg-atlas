@@ -5,6 +5,8 @@ warpedMaps:
     homepage: https://archief.amsterdam/beeldbank/detail/88f82330-590b-d86a-b241-3865496f2584/media/c74e96ae-3609-ce51-1d11-d5dce8486fc5?mode=detail&view=horizontal&q=vogelvluchtkaart%20dilcher&rows=1&page=1
     caption: Stadsarchief Amsterdam
     useBearing: true
+    options:
+      transformationType: "projective"
 ---
 Door het sluiten van de Marinewerven in Rotterdam in 1850 en later ook Vlissingen in 1868 werd de Rijkswerf in Amsterdam de belangrijkste leverancier van schepen voor de Marine. Deze ontwikkeling bracht nieuw leven in werf en dok: Kappen werden hersteld, hellingen en beschoeiing vernieuwd, vervallen loodsen afgebroken, en bestrating aangelegd.[^2] 
 

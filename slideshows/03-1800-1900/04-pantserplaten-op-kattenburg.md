@@ -9,7 +9,7 @@ warpedMaps:
     caption: Stadsarchief Amsterdam
     useBearing: true
     options:
-      transformationType: "thinPlateSpline"
+      transformationType: "projective"
 ---
 In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren en gepantserde schepen. Er kwamen voorzieningen voor het bewerken van pantserplaten, waaronder een gloeioven en een galvaniseerinrichting. De bedoeling was aanvankelijk om buitenlandse voorbeelden na te bouwen en zo ervaring op te doen met een nieuw type oorlogsschip.[^4] 
 

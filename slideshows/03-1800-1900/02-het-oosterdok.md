@@ -3,6 +3,7 @@ title: Het Oosterdok, bescherming en beperking
 location:
   center: [4.9111172,52.376273]
   zoom: 16
+  bearing: 225
 warpedMaps:
   - url: https://annotations.allmaps.org/images/0f676347626202ae
     homepage: https://hdl.handle.net/11245/3.1303

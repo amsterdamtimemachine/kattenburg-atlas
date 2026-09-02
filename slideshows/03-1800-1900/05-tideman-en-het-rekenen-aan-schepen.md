@@ -4,6 +4,7 @@ warpedMaps:
   - url: https://annotations.allmaps.org/images/24e1c323d0614019
     homepage: https://n2t.net/ark:/33862/collect/655435
     caption: "Plattegrond van de Rijkswerf te Amsterdam (1894)"
+    useBearing: true
 ---
 
 <!--
