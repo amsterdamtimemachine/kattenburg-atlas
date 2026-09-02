@@ -7,8 +7,8 @@ warpedMaps:
     caption: Stadsarchief Amsterdam
     useBearing: true
 location:
-  center: [4.918, 52.371]
-  zoom: 15
+  center: [4.917662382483947,52.373379746273955]
+  zoom: 16
 ---
 
 Er wordt meestal gesproken van de wederopbouw van Kattenburg. Maar niet heel het eiland was besloten in het plan. De grens van het *Wederopbouwplan Oostelijke Eilanden*, liep duidelijk over de (Grote) Kattenburgerstraat: ‘langs de westelijke rooilijn van de Grote Kattenburgerstraat, zodat de werf niet in het plan is begrepen’, aldus *het Wederopbouwplan*. De oude scheepswerf, inmiddels het marine-etablissement, was geïsoleerd van de plannen. Ook in deze periode, fungeerde de Kattenburgerstraat als grens op het eiland.
