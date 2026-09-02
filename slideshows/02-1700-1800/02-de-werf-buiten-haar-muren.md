@@ -5,10 +5,10 @@ location:
   center: [4.9170722,52.3720721]
   zoom: 17
 warpedMaps:
-  url: https://annotations.allmaps.org/images/82c54d8b3567fcff
-  homepage: https://archief.amsterdam/inventarissen/scans/10095/1.2.2.1.5/start/0/limit/10/highlight/1
-  caption: Stadsarchief Amsterdam 
-  useBearing: true
+  - url: https://annotations.allmaps.org/images/82c54d8b3567fcff
+    homepage: https://archief.amsterdam/inventarissen/scans/10095/1.2.2.1.5/start/0/limit/10/highlight/1
+    caption: Stadsarchief Amsterdam 
+    useBearing: true
 ---
 Het poortgebouw was lang de enige ingang tot de werf over land. Met uitzondering van een loopbruggetje vanuit het magazijn. De poort was bekroond met een timpaan en een stenen koepeltorentje waarin een uurwijzer en slagklok hingen. Bovenop stond een windwijzer in de vorm van een driemaster en de gekruiste ankers van de Admiraliteit. Het torentje verdween rond 1800 weer en de slagklok verplaatste naar het dak van het magazijn. De poort verschafte toegang tot de werf aan werklieden en sloot deze af voor onbevoegden. 
 

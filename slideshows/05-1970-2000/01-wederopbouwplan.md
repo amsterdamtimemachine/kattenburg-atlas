@@ -2,12 +2,13 @@
 title: Het Wederopbouwplan
 description:
 warpedMaps:
-  url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
-  homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
-  caption: Stadsarchief Amsterdam
+  - url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
+    homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
+    caption: Stadsarchief Amsterdam
+    useBearing: true
 location:
-  # center: [4.918, 52.371]
-  # zoom: 14
+  center: [4.918, 52.371]
+  zoom: 15
 ---
 
 Het Wederopbouwplan vertelt hoe slecht de staat van de woningen op Kattenburg was: ‘Op de Kattenburgerkade staan huis aan huis kelderwoningen (…) langs een smalle trap dient men hier eerst een tweetal meters af te dalen voordat men de voordeur bereikt. (…) de indeling bestaat uit een voorkamer, een tussenkamer en een achterkamer. De lichtinval in deze woningen is zeer schaars. Twee ramen van elke een vierkante meter laten weinig licht door’.

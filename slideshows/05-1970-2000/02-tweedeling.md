@@ -2,9 +2,13 @@
 title: "Tweedeling: een grens op Kattenburg?"
 description:
 warpedMaps:
-  url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
-  homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
-  caption: Stadsarchief Amsterdam
+  - url: https://annotations.allmaps.org/images/bda3e4e4de065cbb
+    homepage: https://archief.amsterdam/inventarissen/scans/10033/1.1.16/start/0/limit/10/highlight/1
+    caption: Stadsarchief Amsterdam
+    useBearing: true
+location:
+  center: [4.918, 52.371]
+  zoom: 15
 ---
 
 Er wordt meestal gesproken van de wederopbouw van Kattenburg. Maar niet heel het eiland was besloten in het plan. De grens van het *Wederopbouwplan Oostelijke Eilanden*, liep duidelijk over de (Grote) Kattenburgerstraat: ‘langs de westelijke rooilijn van de Grote Kattenburgerstraat, zodat de werf niet in het plan is begrepen’, aldus *het Wederopbouwplan*. De oude scheepswerf, inmiddels het marine-etablissement, was geïsoleerd van de plannen. Ook in deze periode, fungeerde de Kattenburgerstraat als grens op het eiland.

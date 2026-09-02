@@ -2,9 +2,9 @@
 title: "Een veranderend karakter: licht, ruimte en speeltuinen"
 description:
 warpedMaps:
-  url: https://annotations.allmaps.org/images/7aba1ec54d1c7d00
-  homepage: https://archief.amsterdam/inventarissen/scans/10057/340.72/start/0/limit/10/highlight/4
-  caption: Stadsarchief Amsterdam
+  - url: https://annotations.allmaps.org/images/7aba1ec54d1c7d00
+    homepage: https://archief.amsterdam/inventarissen/scans/10057/340.72/start/0/limit/10/highlight/4
+    caption: Stadsarchief Amsterdam
 ---
 
 Om Kattenburg opnieuw op te bouwen moest er eerst worden gesloopt. Men begon in de jaren zestig met de sloop van de eerste panden, tot heel Kattenburg letterlijk plat was. Niks van de oude zeventiende-eeuwse wijk was nog over. Ook het stratenplan, met de Grote en Kleine Kattenburgerstraat, al haar dwarsstraatjes en de Kattenburgerkade ging op de schop en was niet meer te herkennen. In 1973 werd de eerste paal geslagen van de nieuwbouw op Kattenburg. Geen herbouw van de zeventiende-eeuwse pandjes maar nieuwe frisse woningen met licht en ruimte\! Er kwamen 620 nieuwe woningen in galerijflats met liften en een parkeergarages. Het historische karakter van de wijk veranderde dus ingrijpend.[^1]
