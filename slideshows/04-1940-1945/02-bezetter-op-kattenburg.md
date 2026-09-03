@@ -1,5 +1,5 @@
 ---
-title: Bezetter op Kattenburg
+title: de Kriegsmarine in Amsterdam
 description: 
 location:
   center: [4.89973,52.37243]
