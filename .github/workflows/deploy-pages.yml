@@ -66,14 +66,8 @@ jobs:
           restore-keys: |
             iiif-${{ runner.os }}
 
-      - name: Delete previous cache
-        run: gh cache delete iiif-${{ runner.os }}
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-
       - name: Build static site
+        id: build-static-site
         env:
           CONTENT_PATH: content/${{ github.event.repository.name }}
         run: |
@@ -85,6 +79,14 @@ jobs:
           fi
 
           pnpm exec slides build "$package_name"
+
+      - name: Delete previous cache
+        if: ${{ steps.build-static-site.outcome == 'success' }}
+        run: gh cache delete iiif-${{ runner.os }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
