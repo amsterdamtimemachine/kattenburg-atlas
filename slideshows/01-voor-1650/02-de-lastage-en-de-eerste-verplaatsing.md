@@ -7,7 +7,8 @@ description:
 warpedMaps:
    - url: https://annotations.allmaps.org/images/207f848162b6f6ed
      homepage: https://archief.amsterdam/beeldbank/detail/7f041a42-1b08-4437-09e9-736e0177fee0/media/8ec12e80-064c-cac7-f58d-a7c333fe5e26?mode=detail&view=horizontal&q=KOKA00291000001.&rows=1&page=1&sort=order_i_sk_date%20asc
-     caption: Stadsarchief Amsterdam
+     caption: Amsteldam ten tweede mael vergroot is eerst met steene Mueren omvangen inden jaere 1482
+     provenance: Stadsarchief Amsterdam
      useBearing: true
 ---
 In de vijftiende eeuw ontwikkelde Amsterdam zich tot een belangrijk centrum van scheepvaart en internationale handel. De stad bestond grotendeels uit houten bebouwing en werd in 1421 en 1452 getroffen door grote branden. Brandgevaarlijke activiteiten moesten daarom steeds meer buiten of aan de rand van de stad plaatsvinden.
