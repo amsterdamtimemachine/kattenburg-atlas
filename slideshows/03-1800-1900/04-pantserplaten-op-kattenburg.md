@@ -2,12 +2,12 @@
 title: Pantserplaten op Kattenburg
 location:
   center: [4.910913,52.377515]
-  zoom: 15
+  zoom: 12
 warpedMaps:
   - url: https://annotations.allmaps.org/images/40817b596ddddf14
     homepage: https://archief.amsterdam/beeldbank/detail/442cb083-f4c6-94c1-a08b-3cfa56813b2b
     caption: Stadsarchief Amsterdam
-    useBearing: true
+    useBearing:
 ---
 In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren en gepantserde schepen. Er kwamen voorzieningen voor het bewerken van pantserplaten, waaronder een gloeioven en een galvaniseerinrichting. De bedoeling was aanvankelijk om buitenlandse voorbeelden na te bouwen en zo ervaring op te doen met een nieuw type oorlogsschip.[^4] 
 
