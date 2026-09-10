@@ -28,4 +28,4 @@ Anoniem. Model van een fluitschip, het veelgebruikte handelschip van de Amsterda
 </figcaption>
 </figure>
 
-[^1]Marjolein ‘t Hart, The Dutch Wars of Independence: Warfare and Commerce in the Netherlands, 1570-1680 (New York: Routledge, 2014) p.129, 137, 139.
+[^1]: Marjolein ‘t Hart, The Dutch Wars of Independence: Warfare and Commerce in the Netherlands, 1570-1680 (New York: Routledge, 2014) p.129, 137, 139.

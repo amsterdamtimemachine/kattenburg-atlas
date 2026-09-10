@@ -14,6 +14,6 @@ Vanaf de elfde eeuw werd het veengebied langs de rivier de Amstel steeds intensi
 
 Vanf de veertiende eeuw begon de bodem echter in te klinken, wat landbouw in heel Holland steeds moeilijker maakte. Graan invoeren vanuit het Oostzeegebied bleek uiteindelijk goedkoper dan het zelf te verbouwen. Landbouw werd op den duur vervangen door veeteelt waardoor veel landarbeiders naar de steden trokken op zoek naar werk. In Amsterdam konden zij terrecht in de havens; op schepen, in werkplaatsen en in pakhuizen. Amsterdam wist dankzij haar gunstige ligging ten opzichte van het Oostzeegebied namelijk juist te profiteren van de situatie en groeide uit tot één van de belangrijkste handelssteden van Noordwest-Europa.[^3]
 
-[^1] ‘Allerheiligenvloed 1170’, Wikipedia.com, geraadpleegd op 8 mei 2026, https://nl.wikipedia.org/wiki/Allerheiligenvloed_(1170).
-[^2] Maarten Prak en Jan Luiten van Zanden, "The State and the Economic Acceleration of the Dutch Republic, 1585–1637," in The Early Modern State: Drivers, Beneficiaries and Discontents (Routledge, 2022), p.48.
-[^3]  Prak en Van Zanden, p.50-51.
+[^1]: ‘Allerheiligenvloed 1170’, Wikipedia.com, geraadpleegd op 8 mei 2026, https://nl.wikipedia.org/wiki/Allerheiligenvloed_(1170).
+[^2]: Maarten Prak en Jan Luiten van Zanden, "The State and the Economic Acceleration of the Dutch Republic, 1585–1637," in The Early Modern State: Drivers, Beneficiaries and Discontents (Routledge, 2022), p.48.
+[^3]: Prak en Van Zanden, p.50-51.
