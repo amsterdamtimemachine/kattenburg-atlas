@@ -1,5 +1,5 @@
 ---
-title: de Kriegsmarine in Amsterdam
+title: De Kriegsmarine in Amsterdam
 description: 
 location:
   center: [4.89973,52.37243]
