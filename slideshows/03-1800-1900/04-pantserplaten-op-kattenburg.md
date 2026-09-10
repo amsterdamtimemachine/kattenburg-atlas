@@ -1,11 +1,11 @@
 ---
 title: Pantserplaten op Kattenburg
 location:
-  center: [4.91230928613836,52.3742630144923]
+  center: [4.910913,52.377515]
   zoom: 15
 warpedMaps:
-  - url: assets/annotations/vogelvluchtkaart.json
-    homepage: https://archief.amsterdam/beeldbank/detail/88f82330-590b-d86a-b241-3865496f2584/media/c74e96ae-3609-ce51-1d11-d5dce8486fc5?mode=detail&view=horizontal&q=vogelvluchtkaart%20dilcher&rows=1&page=1
+  - url: https://annotations.allmaps.org/images/40817b596ddddf14
+    homepage: https://archief.amsterdam/beeldbank/detail/442cb083-f4c6-94c1-a08b-3cfa56813b2b
     caption: Stadsarchief Amsterdam
     useBearing: true
 ---
@@ -13,7 +13,7 @@ In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren 
 
 Een pantserschip vroeg veel meer van een werf dan een houten fregat. IJzeren platen moesten worden gevormd, verhit, bevestigd en gecombineerd met zware kanonnen, stoommachines en bepantserde torens. De werf werd daardoor zwaarder, industriëler en technischer. 
 
-In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreiding van het treinspoor in Nederland. De Oosterspoorweg, die deels liep over de Oosterdijk en te zien op deze kaart, moest de hoofdstad gaan verbinden met het oosten van het land. Dit betekende dat er een draaiende spoorbrug over de Oostersluis werd geplaats waardoor schepen voor het in- en uitvaren van de werf afhankelijk werden van de openingstijden van de spoorbrug.
+In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreiding van het treinspoor in Nederland. De Oosterspoorweg, die deels liep over de Oosterdijk en te zien is op deze kaart, moest de hoofdstad gaan verbinden met het oosten van het land. Dit betekende dat er een draaiende spoorbrug over de Oostersluis werd geplaats waardoor schepen voor het in- en uitvaren van de werf afhankelijk werden van de openingstijden van de spoorbrug.
 
 <figure data-image="https://dlc.services/iiif-img/v3/7/6/1e430d74-d9e8-4073-ba9b-438ac4d0988c#xywh=1718,1276,5820,4409"
   aria-label="Geopende spoorbrug over de Oosterdoksdoorgang met de werf op de achtergrond, 1875">
