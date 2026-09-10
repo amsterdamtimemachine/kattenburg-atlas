@@ -16,7 +16,15 @@ Maar dezelfde oplossing zou later een probleem worden. De werf lag nu niet meer 
 In 1832 voer de lijkvaart van de Amsterdamse zeeheld Jan van Speijk door de oostersluis in aanbouw. 
 
 <!-- https://archief.amsterdam/beeldbank/detail/68140eea-f196-13f6-f6e8-bce9a582cd67.  -->
-![Hendrik, Vettewinkel, De plegtstatige lijkvaart van het stoffelijk overschot van Jan Carel Josephus van Speijk, 4 mei 1832, tekening, Collectie Atlas Dreesmann, Stadsarchief Amsterdam](https://images.memorix.nl/ams/iiif/d7f451e0-f1c8-7578-2773-6e65a77363ee/full/1024,/0/default.jpg)
+<figure data-image="https://images.memorix.nl/ams/iiif/d7f451e0-f1c8-7578-2773-6e65a77363ee"
+  aria-label="De lijkvaart van Jan Carel Josephus van Speijk, getekend door Hendrik Vettewinkel, 1832">
+
+<figcaption>
+
+Hendrik, Vettewinkel, De plegtstatige lijkvaart van het stoffelijk overschot van Jan Carel Josephus van Speijk, 4 mei 1832, tekening, Collectie Atlas Dreesmann, [Stadsarchief Amsterdam](https://archief.amsterdam/beeldbank/detail/68140eea-f196-13f6-f6e8-bce9a582cd67)
+
+</figcaption>
+</figure>
 
 Op dit schilderij van Hendrik Vettewinkel zijn links een aantal gebouwen van de Rijkswerf en s’ Lands Zeemagazijn te zien en rechts op de achtergrond de Kattenburgerbrug.[^1] 
 

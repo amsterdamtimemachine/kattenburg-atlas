@@ -15,7 +15,15 @@ Een pantserschip vroeg veel meer van een werf dan een houten fregat. IJzeren pla
 
 In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreiding van het treinspoor in Nederland. De Oosterspoorweg, die deels liep over de Oosterdijk en te zien op deze kaart, moest de hoofdstad gaan verbinden met het oosten van het land. Dit betekende dat er een draaiende spoorbrug over de Oostersluis werd geplaats waardoor schepen voor het in- en uitvaren van de werf afhankelijk werden van de openingstijden van de spoorbrug.
 
-![Piet Oosterhuis, Spoorburg over de Oosterdoksdoorgang . Geopend gezien vanaf het Afgesloten IJ met de op de achtergrond de werf, foto, november 1875. Collectie TU Delft Library](https://dlc.services/iiif-img/v3/7/6/1e430d74-d9e8-4073-ba9b-438ac4d0988c/full/1024,/0/default.jpg)
+<figure data-image="https://dlc.services/iiif-img/v3/7/6/1e430d74-d9e8-4073-ba9b-438ac4d0988c#xywh=1718,1276,5820,4409"
+  aria-label="Geopende spoorbrug over de Oosterdoksdoorgang met de werf op de achtergrond, 1875">
+
+<figcaption>
+
+Piet Oosterhuis, Spoorburg over de Oosterdoksdoorgang . Geopend gezien vanaf het Afgesloten IJ met de op de achtergrond de werf, foto, november 1875. Collectie [TU Delft Library](https://heritage.tudelft.nl/nl/objects/trg-9301-c-01)
+
+</figcaption>
+</figure>
 
 <!-- Piet Oosterhuis, Spoorburg over de Oosterdoksdoorgang . Geopend gezien vanaf het Afgesloten IJ met de op de achtergrond de werf, foto, november 1875, Collectie A.M.J. Hendrichs, Stadsarchief Amsterdam, https://archief.amsterdam/beeldbank/detail/3b6a8c1e-a8d5-adea-dcb1-74b36634d728. 
 IIIF Versie uit Delft:
@@ -23,4 +31,3 @@ https://heritage.tudelft.nl/nl/objects/trg-9301-c-01
 -->
 
 [^4]:  Lintsen en Bakker, *Geschiedenis van de techniek in Nederland*; Doorn van, “Cultuurhistorisch onderzoek en waardering Deel 1: het terrein”, 35\.
-

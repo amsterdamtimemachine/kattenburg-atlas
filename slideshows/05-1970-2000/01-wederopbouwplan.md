@@ -20,6 +20,14 @@ De sloop van Kattenburg betekende grote veranderingen voor de wijk. In de plaats
 Van het oude Kattenburg zelf bleef eigenlijk niets over. Zelfs de historische gevels aan het Kattenburgerplein zijn een reconstructie...
 
 <!-- https://archief.amsterdam/beeldbank/detail/917fadfa-93b1-a5c1-aa58-bb9b126451a7 -->
-![Kattenburgerstraat (voormalige 'Grote') 150 t/m 160 (vrnl.)](https://images.memorix.nl/ams/iiif/d23d63e6-c38b-5116-7d3a-c10d8aa6c02d/full/1024,/0/default.jpg)
+<figure data-image="https://images.memorix.nl/ams/iiif/d23d63e6-c38b-5116-7d3a-c10d8aa6c02d"
+  aria-label="Kattenburgerstraat 150 tot en met 160, van rechts naar links">
+
+<figcaption>
+
+Kattenburgerstraat (voormalige 'Grote') 150 t/m 160 (vrnl.). Collectie [Stadsarchief Amsterdam](https://archief.amsterdam/beeldbank/detail/917fadfa-93b1-a5c1-aa58-bb9b126451a7).
+
+</figcaption>
+</figure>
 
 [^1]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 165, 160.

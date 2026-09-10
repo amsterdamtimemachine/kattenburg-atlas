@@ -12,7 +12,15 @@ warpedMaps:
 ---
 
 <!-- https://archief.amsterdam/beeldbank/detail/7781aa1c-25b2-f566-ecc6-c86170acb944 -->
-![Jean Boisseau, Profiel van Amsterdam gezien vanaf het IJ, prent, 1647, Collectie Atlas Dreesman, Stadsarchief Amsterdam](https://images.memorix.nl/ams/iiif/c41ef6ab-9351-170f-e881-2034112bb076/full/1024,/0/default.jpg)
+<figure data-image="https://images.memorix.nl/ams/iiif/c41ef6ab-9351-170f-e881-2034112bb076"
+  aria-label="Profiel van Amsterdam gezien vanaf het IJ, door Jean Boisseau, 1647">
+
+<figcaption>
+
+Jean Boisseau, Profiel van Amsterdam gezien vanaf het IJ, prent, 1647, Collectie Atlas Dreesman, [Stadsarchief Amsterdam](https://archief.amsterdam/beeldbank/detail/7781aa1c-25b2-f566-ecc6-c86170acb944)
+
+</figcaption>
+</figure>
 
 Aan het einde van de Derde Uitleg richtte het Amsterdamse stadsbestuur zijn aandacht opnieuw op het oostelijke havengebied. In de jaren 1640 werden plannen ontwikkeld voor Fort Kattenburg, ten oosten van Rapenburg.
 

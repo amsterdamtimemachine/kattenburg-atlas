@@ -17,7 +17,16 @@ Een van de belangrijkste figuren op de negentiende-eeuwse Rijkswerf was marine-i
 
 Tideman wilde weten hoe een schip zich door het water bewoog voordat het op ware grootte werd gebouwd. Daarom gebruikte hij schaalmodellen en een sleeptank of proefdok op de Rijkswerf. Daarmee konden waterweerstand, rompvorm en voortstuwingsvermogen worden onderzocht. Dit sloot aan bij de internationale ontwikkeling van wetenschappelijke scheepsbouw, waarin praktijkervaring steeds vaker werd aangevuld met metingen. 
 
-![Bruno J. Tideman, Luchtmachine in de inrichting tot proefneming met scheepsmodellen aan de lange brug tussen het marinedok en de houthaven op de Rijkswerf te Amsterdam](https://collectie.hetscheepvaartmuseum.nl/IIIF/1087351/full/1024,/0/default.jpg)
+<figure data-manifest="https://collectie.hetscheepvaartmuseum.nl/IIIF/collect/655513/manifest.json"
+  data-canvas="https://collectie.hetscheepvaartmuseum.nl/IIIF/1087351/canvas/p1"
+  aria-label="Tekening van de luchtmachine voor proeven met scheepsmodellen op de Rijkswerf">
+
+<figcaption>
+
+Bruno J. Tideman, Luchtmachine in de inrichting tot proefneming met scheepsmodellen aan de lange brug tussen het marinedok en de houthaven op de Rijkswerf te Amsterdam. Collectie [Het Scheepvaartmuseum](https://n2t.net/ark:/33862/collect/655513).
+
+</figcaption>
+</figure>
 
 <!-- Bruno J. Tideman, Luchtmachine in de inrichting tot proefneming met scheepsmodellen aan de lange brug tussen het marinedok en de houthaven op de Rijkswerf te Amsterdam, technische tekening, circa 1879, Collectie Het Scheepvaartmuseum, Amsterdam, n2t.net/ark:/33862/collect/655513. 
 https://collectie.hetscheepvaartmuseum.nl/IIIF/collect/655513/manifest.json
