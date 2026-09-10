@@ -17,7 +17,7 @@ Al die gebouwen waren nodig om de verschillende werkplaatsen, winkels genoemd, v
 
 <figcaption>
 
-'s Lands Werf op Kattenburg. Collectie [Stadsarchief Amsterdam](https://archief.amsterdam/beeldbank/detail/7d4825de-bb99-8b64-d81f-38749ee157d3).
+Jacobus Verheyden, 's Lands Werf op Kattenburg. Collectie [Stadsarchief Amsterdam](https://archief.amsterdam/beeldbank/detail/7d4825de-bb99-8b64-d81f-38749ee157d3).
 
 </figcaption>
 </figure>

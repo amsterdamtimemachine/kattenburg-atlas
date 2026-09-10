@@ -14,7 +14,7 @@ Het ramtorenschip *ZR.MS. Koning der Nederlanden* laat goed zien hoe snel de mar
 
 <figcaption>
 
-G.R. Lambert & Co., Nederlands schip in een dok van de Tanjong Pagar Dock Co. Ltd. in Singapore, ca. 1890-1905, [Rijksmuseum](https://id.rijksmuseum.nl/200336154), Amsterdam, RP-F-F01140-C
+G.R. Lambert & Co., Ramtorenschip ZR.MS. Koning der Nederlanden in Singapore, ca. 1890-1905, [Rijksmuseum](https://id.rijksmuseum.nl/200336154), Amsterdam, RP-F-F01140-C
 
 </figcaption>
 </figure>
