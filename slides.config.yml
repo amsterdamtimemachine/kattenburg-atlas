@@ -6,6 +6,12 @@ slideshows:
   - id: introductie
     path: slideshows/00-introductie
     title: Kattenburg Atlas
+    start:
+      location:
+        zoom: 17
+      warpedMaps:
+        - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
+      hideBasemap: true
 
   - id: voor-1650
     path: slideshows/01-voor-1650
@@ -44,4 +50,9 @@ site:
 protomaps:
   key: 4c541e68dd0eec0a
 
-interface: {}
+interface:
+  startScreen:
+    startButton: Start
+    chapterCountSingular: "{count} hoofdstuk"
+    chapterCountPlural: "{count} hoofdstukken"
+    madeWith: Gemaakt met

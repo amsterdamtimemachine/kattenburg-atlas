@@ -1,12 +1,14 @@
 ---
 title: Pantserplaten op Kattenburg
-location:
-  center: [4.910913,52.377515]
-  zoom: 12
+# location:
+#   center: [4.910913,52.377515]
+#   zoom: 12
+#   bearing: 215
 warpedMaps:
   - url: https://annotations.allmaps.org/images/40817b596ddddf14
     homepage: https://archief.amsterdam/beeldbank/detail/442cb083-f4c6-94c1-a08b-3cfa56813b2b
     caption: Stadsarchief Amsterdam
+    useBearing: true
 ---
 In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren en gepantserde schepen. Er kwamen voorzieningen voor het bewerken van pantserplaten, waaronder een gloeioven en een galvaniseerinrichting. De bedoeling was aanvankelijk om buitenlandse voorbeelden na te bouwen en zo ervaring op te doen met een nieuw type oorlogsschip.[^4] 
 
@@ -19,7 +21,7 @@ In dezelfde periode kreeg de Rijkswerf te maken met de plannen voor de uitbreidi
 
 <figcaption>
 
-Piet Oosterhuis, Spoorburg over de Oosterdoksdoorgang . Geopend gezien vanaf het Afgesloten IJ met de op de achtergrond de werf, foto, november 1875. Collectie [TU Delft Library](https://heritage.tudelft.nl/nl/objects/trg-9301-c-01)
+Piet Oosterhuis, Spoorburg over de Oosterdoksdoorgang . Geopend gezien vanaf het Afgesloten IJ met de op de achtergrond de werf, foto, november 1875. Collectie [TU Delft Library](https://heritage.tudelft.nl/nl/objects/trg-9301-c-01?id=17)
 
 </figcaption>
 </figure>
