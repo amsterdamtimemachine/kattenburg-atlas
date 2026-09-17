@@ -30,4 +30,4 @@ De functie van het fort bleek echter van korte duur. De Admiraliteit van Amsterd
 
 Fort Kattenburg vormde daardoor onbedoeld de eerste stap naar een nieuw maritiem landschap. Wat als verdedigingswerk begon, zou bij de volgende stadsuitbreiding plaatsmaken voor een gespecialiseerde werf van de Admiraliteit.
 
-Op deze kaart van de beroemde Amsterdamse kaartenmaker Joan Blaeu van omstreeks 1657 is goed te zien hoe fort Kattenburg werd vermaakt tot werfeiland. ’S Lands Zeemagazijn, in deze periode nog in aanbouw, staat al fier afgebeeld, evenals de Admiraliteitswerf met voorgebouw daaronder. Ook zien we de nog te bouwen uitbreiding van de stadswal in dunne lijnen weergegeven.
+De hiernaast getoonde kaart van de beroemde Amsterdamse kaartenmaker Joan Blaeu van omstreeks 1657 is goed te zien hoe fort Kattenburg werd vermaakt tot werfeiland. ’S Lands Zeemagazijn, in deze periode nog in aanbouw, staat al fier afgebeeld, evenals de Admiraliteitswerf met voorgebouw daaronder. Ook zijn de nog te bouwen uitbreiding van de stadswal in dunne lijnen weergegeven.
