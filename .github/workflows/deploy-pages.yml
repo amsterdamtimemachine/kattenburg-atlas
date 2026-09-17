@@ -114,18 +114,21 @@ jobs:
           xvfb-run -a pnpm exec slides build "$package_name"
 
       - name: Save IIIF derivatives
+        if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
           path: apps/slides/.svelte-kit/iiif
           key: iiif-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Save remote annotations
+        if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
           path: apps/slides/.svelte-kit/annotations
           key: annotations-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Save thumbnails and map sources
+        if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
           path: apps/slides/.svelte-kit/thumbnails

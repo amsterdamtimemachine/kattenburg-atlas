@@ -131,6 +131,8 @@ and exports `apps/slides/build`; Docker is not part of the Pages workflow.
 Pages persists IIIF derivatives, remote annotations and thumbnail/map sources as
 three independent Actions caches, with separate reset inputs. Its one native
 setup command calls the renderer package's shared Ubuntu dependency script.
+Downloaded inputs and completed derivatives are saved even if the site build
+fails, so retrying it can reuse the work already done.
 
 The Dockerfile mounts the same three cache directories with BuildKit. They stay
 out of the serving image. Thumbnail recipes are additionally namespaced by the
