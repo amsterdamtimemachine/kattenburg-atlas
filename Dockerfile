@@ -5,8 +5,10 @@ ARG SLIDES_REPO=https://github.com/allmaps/slides.git
 ARG SLIDES_REF=main
 ADD ${SLIDES_REPO}#${SLIDES_REF} /
 
-FROM node:24-bookworm-slim AS node
-FROM ubuntu:24.04 AS dependencies
+# Render the architecture-independent site once on the build machine. Only the
+# final Nginx stage follows the requested target architecture (AMD64 or ARM64).
+FROM --platform=$BUILDPLATFORM node:24-bookworm-slim AS node
+FROM --platform=$BUILDPLATFORM ubuntu:24.04 AS dependencies
 COPY --from=slides /packages/static-render/scripts/install-system-deps.sh /tmp/install-system-deps.sh
 RUN sh /tmp/install-system-deps.sh && rm /tmp/install-system-deps.sh
 COPY --from=node /usr/local/bin/node /usr/local/bin/node

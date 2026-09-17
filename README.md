@@ -85,7 +85,7 @@ Nginx. No prebuilt Slides or renderer image is required.
 From this content repository:
 
 ```sh
-docker build --platform linux/amd64 -t kattenburg-atlas .
+docker build -t kattenburg-atlas .
 docker run --rm -p 8080:80 kattenburg-atlas
 ```
 
@@ -102,18 +102,23 @@ Build arguments:
 | `PUBLIC_URL` | content configuration | Override the canonical deployment URL at build time, including the base path if used. |
 | `CACHE_EPOCH` | `0` | Change to force the build step to run again, allowing remote inputs to revalidate. CI supplies the UTC date. |
 
-For example:
+To build for the container deployment domain using an environment variable:
 
 ```sh
-docker build --platform linux/amd64 \
+export PUBLIC_URL=https://kattenburg.amsterdamtimemachine.nl/
+docker build \
   --build-arg CACHE_EPOCH="$(date -u +%F)" \
-  --build-arg PUBLIC_URL=https://atlas.example.org/ \
+  --build-arg PUBLIC_URL \
   -t kattenburg-atlas .
 ```
 
+`--build-arg PUBLIC_URL` passes the host environment variable into the build.
+It overrides `site.publicUrl` without changing `slides.config.yml`.
+
 The public URL is also the origin used for restricted basemap requests; the
 configured provider key must permit that deployment origin. The site is static,
-so public URL/base-path changes require rebuilding the image.
+so public URL/base-path changes require rebuilding the image; setting
+`docker run -e PUBLIC_URL=...` does not change the generated pages.
 
 For local framework development, Docker supports replacing the `slides` source
 stage with `--build-context slides=/path/to/source-only-slides-checkout`. Use a
@@ -121,10 +126,19 @@ source-only checkout without host `node_modules` or generated build directories.
 This also allows testing framework changes before their commit is available on
 the remote repository.
 
-The separate `docker-publish.yml` workflow publishes the Nginx image to GHCR.
+The separate `docker-publish.yml` workflow publishes both `linux/amd64` and
+`linux/arm64` variants to GHCR under the same tags. Docker automatically selects
+the matching variant, including on Apple Silicon and ARM64 servers. The static
+site builds once on the runner's architecture; only the Nginx runtime varies.
+Local `docker build` defaults to the host architecture. See Docker's
+[multi-platform build documentation](https://docs.docker.com/build/building/multi-platform/).
+
 `SLIDES_REF`, `CONTAINER_BASE_PATH` and `CONTAINER_PUBLIC_URL` repository variables
-control its build settings. GitHub Pages continues to use Node/pnpm directly
-and exports `apps/slides/build`; Docker is not part of the Pages workflow.
+control its build settings. The Docker workflow defaults `PUBLIC_URL` to
+`https://kattenburg.amsterdamtimemachine.nl/`; setting `CONTAINER_PUBLIC_URL`
+overrides that default. GitHub Pages continues to use the URL in
+`slides.config.yml`, builds with Node/pnpm directly and exports
+`apps/slides/build`; Docker is not part of the Pages workflow.
 
 ### Build caches
 
