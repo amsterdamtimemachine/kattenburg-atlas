@@ -1,0 +1,9 @@
+**/.git
+.github
+**/node_modules
+**/build
+**/.svelte-kit
+**/.DS_Store
+.container-cache
+.env
+.env.*

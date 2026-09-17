@@ -73,3 +73,71 @@ pnpm exec slides build kattenburg-atlas
 ## Deployment
 
 Pushes to `main` run the GitHub Pages workflow. It checks out `slides` at the workspace root, checks out this repository at `content/kattenburg-atlas`, builds `kattenburg-atlas`, and deploys `apps/slides/build`.
+
+### Container deployment
+
+The `Dockerfile`, based on the `container-build` prototype, builds and serves the
+complete app in one multi-stage build. It obtains the Slides source, installs
+Node 24 and the native renderer's Linux libraries, generates thumbnails and
+IIIF derivatives, prerenders SvelteKit, then copies only the static site into
+Nginx. No prebuilt Slides or renderer image is required.
+
+From this content repository:
+
+```sh
+docker build --platform linux/amd64 -t kattenburg-atlas .
+docker run --rm -p 8080:80 kattenburg-atlas
+```
+
+Open `http://localhost:8080`. Chapter URLs work on direct navigation as well as
+through the app. Missing files return 404 instead of the home page.
+
+Build arguments:
+
+| Argument | Default | Purpose |
+| --- | --- | --- |
+| `SLIDES_REPO` | `https://github.com/allmaps/slides.git` | Framework source repository. |
+| `SLIDES_REF` | `main` | Framework branch, tag or commit containing the extracted renderer. Pin a commit for a reproducible framework version. |
+| `PUBLIC_BASE_PATH` | empty | Serve at the origin root, or use a path such as `/atlas`. |
+| `PUBLIC_URL` | content configuration | Override the canonical deployment URL at build time, including the base path if used. |
+| `CACHE_EPOCH` | `0` | Change to force the build step to run again, allowing remote inputs to revalidate. CI supplies the UTC date. |
+
+For example:
+
+```sh
+docker build --platform linux/amd64 \
+  --build-arg CACHE_EPOCH="$(date -u +%F)" \
+  --build-arg PUBLIC_URL=https://atlas.example.org/ \
+  -t kattenburg-atlas .
+```
+
+The public URL is also the origin used for restricted basemap requests; the
+configured provider key must permit that deployment origin. The site is static,
+so public URL/base-path changes require rebuilding the image.
+
+For local framework development, Docker supports replacing the `slides` source
+stage with `--build-context slides=/path/to/source-only-slides-checkout`. Use a
+source-only checkout without host `node_modules` or generated build directories.
+This also allows testing framework changes before their commit is available on
+the remote repository.
+
+The separate `docker-publish.yml` workflow publishes the Nginx image to GHCR.
+`SLIDES_REF`, `CONTAINER_BASE_PATH` and `CONTAINER_PUBLIC_URL` repository variables
+control its build settings. GitHub Pages continues to use Node/pnpm directly
+and exports `apps/slides/build`; Docker is not part of the Pages workflow.
+
+### Build caches
+
+Pages persists IIIF derivatives, remote annotations and thumbnail/map sources as
+three independent Actions caches, with separate reset inputs. Its one native
+setup command calls the renderer package's shared Ubuntu dependency script.
+
+The Dockerfile mounts the same three cache directories with BuildKit. They stay
+out of the serving image. Thumbnail recipes are additionally namespaced by the
+framework lockfile, so dependency changes cannot reuse incompatible rasters.
+Changing `CACHE_EPOCH` reruns the build without discarding these caches. An
+unchanged source generation reuses the finished thumbnails.
+
+The image-publishing workflow uses explicit cache import/export for hosted
+runners, in addition to the ordinary Docker layer cache. This is necessary
+because [Docker's GitHub cache does not preserve cache mounts by default](https://docs.docker.com/build/ci/github-actions/cache/#cache-mounts).
