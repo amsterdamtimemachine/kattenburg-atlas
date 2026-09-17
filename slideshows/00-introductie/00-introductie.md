@@ -28,14 +28,13 @@ De geschiedenis van het Marineterrein op Kattenburg is nauw verbonden met die va
 De atlas is ontwikkeld door de Faculteit Geesteswetenschappen van de Universiteit van Amsterdam (UvA) in samenwerking met Allmaps/TU Delft. De inhoud is verzorgd door studenten van de master Militaire geschiedenis en de research master Geschiedenis onder begeleiding van dr. Djoeke van Netten en prof. dr. Floribert Baudet. De ontwikkeling van het open source template is mede mogelijk gemaakt door financiële steun van de Samenwerkende Maritieme Fondsen.
 
 <dl>
-  <dt>Concept en begeleiding</dt>
-  <dd>Prof. Dr. Floribert Baudet, Dr. Djoeke van Netten (Universiteit van Amsterdam), 
-    Jules Schoonman (TU Delft)
+  <dt>Concept, coördinatie en begeleiding</dt>
+  <dd>Prof. Dr. Floribert Baudet, Dr. Djoeke van Netten, Boudewijn Koopmans (Universiteit van Amsterdam), Jules Schoonman (TU Delft)
   </dd>
   <dt>Teksten en redactie</dt>
   <dd>Jelmer Datema, Mick Höcker, Nina van der Meij en Sean de Graaff, Michel van der Breggen, Wessel Kuperus</dd>
   <dt>Ontwikkeling applicatie</dt>
-  <dd>Jules Schoonman, Bert Spaan en Manuel Claeys Bouuaert</dd>
+  <dd>Jules Schoonman, Bert Spaan, Manuel Claeys Bouuaert, Leon van Wissen</dd>
   <dt>Vormgeving</dt>
   <dd>Luuk van de Ven</dd>
   <!-- <dt>Militaire projectie</dt>
