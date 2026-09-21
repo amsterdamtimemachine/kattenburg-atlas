@@ -17,8 +17,4 @@ Op de werven werden vooral de rompen gebouwd. In de Oude Waal werden vervolgens 
 
 Maar ook de Oude Waal kende beperkingen. Opslibbing verminderde de toegankelijkheid en grotere schepen waren steeds moeilijker te behandelen. In de winter waren vooral het bergen en plaatsen van masten gevaarlijk. Deze problemen droegen uiteindelijk bij aan de inrichting van een tweede afbouwplaats: de Nieuwe Waal bij Bickerseiland.[^6]
 
-[^6]: J.L. Meijer, ‘de oostelijke eilanden (deel 1)’, Ons Amsterdam 41 (1989) <li>
-  <a href="https://onsamsterdam.nl/artikelen/de-oostelijke-eilanden-deel-1">
-    De oostelijke eilanden, deel 1
-  </a>.
-</li>.
+[^6]: J.L. Meijer, ‘De oostelijke eilanden (deel 1)’, *Ons Amsterdam* 41 (1989) https://onsamsterdam.nl/artikelen/de-oostelijke-eilanden-deel-1.
