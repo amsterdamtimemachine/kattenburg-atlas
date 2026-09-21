@@ -7,7 +7,7 @@ warpedMaps:
   - url: https://annotations.allmaps.org/images/1123354a61037265
     homepage: https://hdl.handle.net/21.12102/FDCFA4B8FB8E11DF9E4D523BC2E286E2
 ---
-Het ramtorenschip *ZR.MS. Koning der Nederlanden* laat goed zien hoe snel de marinetechniek veranderde. In 1870 was het met een totale lengte van ongeveer 85 meter en een waterverplaatsing van 5285 ton het grootste schip dat tot dan toe in Nederland was ontworpen en gebouwd. De ontwerpers moesten echter noodgedwongen rekening houden met de afmetingen van bestaande vaarwegen en sluizen waardoor het achterschip een wat gedrongen vorm kreeg, wat waarschijnlijk nadelig was voor de toestroom van water naar de schroef en dus voor de snelheid.
+Het ramtorenschip *ZR.MS. Koning der Nederlanden* laat goed zien hoe snel de marinetechniek veranderde. In 1870 moest het met een totale lengte van ongeveer 85 meter en een waterverplaatsing van 5285 ton het grootste schip dat tot dan toe in Nederland was ontworpen en gebouwd worden. De ontwerpers moesten echter noodgedwongen rekening houden met de afmetingen van bestaande vaarwegen en sluizen waardoor het achterschip een wat gedrongen vorm kreeg, wat nadelig bleek voor de toestroom van water naar de schroef en dus voor de snelheid.
 
 <figure data-image="https://iiif.micr.io/TDqLF"
   aria-label="Nederlands schip in een dok in Singapore, circa 1890–1905">
@@ -29,10 +29,12 @@ De *Koning der Nederlanden* legde hiermee een voor Amsterdam oud probleem bloot:
 
 De aanleg van het Noordzeekanaal moest dat veranderen. Vanaf 1865 werd gewerkt aan een nieuwe, directe verbinding tussen Amsterdam en de Noordzee. In 1876 voeren de eerste schepen door het kanaal; koning Willem III nam het op 1 november van dat jaar feestelijk in gebruik. Voor Amsterdam betekende dit een hernieuwde aansluiting op de internationale scheepvaart.[^7] 
 
+Doordat de *Koning der Nederlanden* later gereed kwam dan gepland - pas in 1877, kon het alsnog gebruikmaken van het nieuwe kanaal en bleken de concessies die ten koste waren gegaan van snelheid onnodig te zijn geweest. Slechts een jaar later werd het eerste schip uit de *Atjeh*-klasse te water gelaten. Deze kruiser, ontwerpen aan de hand van de modelproeven van Tideman en zonder rekening te hoeven houden met nauwe doorgangen, haalde voor die tijd recordsnelheden.[^8]
+
 Voor de Rijkswerf was het kanaal belangrijk, maar geen wondermiddel. Het maakte de route naar zee korter en strategisch aantrekkelijker voor moderne stoom- en pantserschepen. Tegelijk bleef de werf gebonden aan haar eigen ligging aan het Oosterdok, met sluizen, dokken en stedelijke infrastructuur direct om haar heen. Bovendien was het Noordzeekanaal bij de opening nog niet meteen diep genoeg voor alle grote schepen; verdere uitbaggering bleef nodig.
 
-Zo blijkt maar dat een schip bij de tewaterlating hypermodern kon lijken, terwijl het bij ingebruikname eigenlijk alweer verouderd was. In de negentiende-eeuwse marinescheepsbouw liep innovatie voortdurend achter de feiten aan. De werf moest blijven aanpassen, terwijl iedere oplossing tijdelijk leek.
+ In de negentiende-eeuwse marinescheepsbouw liep innovatie voortdurend achter de feiten aan. Een schip kon bij de tewaterlating hypermodern lijken, terwijl het bij ingebruikname eigenlijk alweer verouderd was. De werf moest blijven aanpassen, terwijl iedere oplossing tijdelijk leek.
 
-  [^6]: *Geschiedenis van de Techniek in Nederland*. 4, 92.
+  [^6]: *Geschiedenis van de Techniek in Nederland*. 4, 91-92.
   [^7]: Amsterdam, “1876 Noordzeekanaal”, webpagina, Stadsarchief, Gemeente Amsterdam, geraadpleegd 23 juni 2026, https://www.amsterdam.nl/stadsarchief/canon/venster/30/.
-
+  [^8]: *Geschiedenis van de Techniek in Nederland*. 4, 92-93.

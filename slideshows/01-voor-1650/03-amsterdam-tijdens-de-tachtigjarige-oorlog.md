@@ -13,7 +13,7 @@ warpedMaps:
 ---
 Gedurende de Tachtigjarige Oorlog veranderde Amsterdam in hoog tempo. Bij de Alteratie van 1578 werd het katholieke stadsbestuur vreedzaam afgezet en vervangen door calvinisten waarmee Amsterdam als laatste belangrijke stad van Holland de kant van de rebbelen koos. Deze ommekeer en aansluitend de val van Antwerpen in 1585, zorgden voor een toestroom van kooplieden, ambachtslieden en kapitaal uit de Zuidelijke Nederlanden.
 
-De oprichting van de Amsterdamse Admiraliteit in 1586 versterkte bovendien de maritieme positie van de stad. De Admiraliteit beschermde de handelsvaart en was verantwoordelijk voor de verdediging op zee. In 1602 volgde de VOC, die de vraag naar schepen, pakhuizen en havenvoorzieningen verder vergrootte.[^1]
+De oprichting van de Amsterdamse Admiraliteit in 1586 versterkte bovendien de maritieme positie van de stad. De Admiraliteit beschermde de handelsvaart en was verantwoordelijk voor de verdediging op zee. In 1602 volgde de VOC, die de vraag naar schepen, pakhuizen en havenvoorzieningen verder vergrootte.[^3]
 
 Amsterdam groeide zo uit tot het belangrijkste handelscentrum van de Republiek. Tegelijkertijd werd de middeleeuwse stad te klein voor haar bevolking en maritieme bedrijvigheid. Nieuwe stadsuitbreidingen moesten daarom niet alleen woonruimte creëren, maar ook plaats bieden aan een snel groeiende scheepsbouw.
 
@@ -28,4 +28,4 @@ Anoniem. Model van een fluitschip, het veelgebruikte handelschip van de Amsterda
 </figcaption>
 </figure>
 
-[^1]: Marjolein ‘t Hart, The Dutch Wars of Independence: Warfare and Commerce in the Netherlands, 1570-1680 (New York: Routledge, 2014) p.129, 137, 139.
+[^3]: Marjolein ‘t Hart, The Dutch Wars of Independence: Warfare and Commerce in the Netherlands, 1570-1680 (New York: Routledge, 2014) p.129, 137, 139.

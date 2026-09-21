@@ -12,7 +12,7 @@ warpedMaps:
 ---
 
 Het Wederopbouwplan vertelt hoe slecht de staat van de woningen op Kattenburg was: ‘Op de Kattenburgerkade staan huis aan huis kelderwoningen (…) langs een smalle trap dient men hier eerst een tweetal meters af te dalen voordat men de voordeur bereikt. (…) de indeling bestaat uit een voorkamer, een tussenkamer en een achterkamer. De lichtinval in deze woningen is zeer schaars. Twee ramen van elke een vierkante meter laten weinig licht door’.
-En: ‘Het zou niet tot een bevredigende oplossing kunnen leiden, wanneer slechts de westzijde van deze bouwblokken zou worden gesloopt, waardoor de onooglijke achtergevels van de huizen, gelegen aan de Kleine Kattenburgerstraat, in het gezicht zouden komen'.[^1]
+En: ‘Het zou niet tot een bevredigende oplossing kunnen leiden, wanneer slechts de westzijde van deze bouwblokken zou worden gesloopt, waardoor de onooglijke achtergevels van de huizen, gelegen aan de Kleine Kattenburgerstraat, in het gezicht zouden komen'.[^2]
 
 <!-- Afbeelding: https://archief.amsterdam/beeldbank/detail/7fd709db-b5dc-4487-f81c-31f0c4114b23 -->
 
@@ -30,4 +30,4 @@ Kattenburgerstraat (voormalige 'Grote') 150 t/m 160 (vrnl.). Collectie [Stadsarc
 </figcaption>
 </figure>
 
-[^1]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 165, 160.
+[^2]: J.H. Kruizinga, *Adieu Kattenburg, de geschiedenis van de oostelijke eilanden* (Amsterdam 1966) 165, 160.

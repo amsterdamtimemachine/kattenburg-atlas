@@ -12,6 +12,8 @@ warpedMaps:
 ---
 De Vierde Uitleg vormde het sluitstuk van een ontwikkeling waarbij de Amsterdamse scheepsbouw bijna twee eeuwen lang steeds verder naar de randen van de stad was opgeschoven. De Lastage, Uilenburg, de Marcken en Rapenburg waren uiteindelijk te klein geworden voor grootschalige scheepsbouw.
 
-Na de Eerste Engels-Nederlandse Zeeoorlog van 1652–1654 groeide bovendien de behoefte aan een beter georganiseerde oorlogsvloot. De Amsterdamse Admiraliteit kreeg meer middelen om zelf oorlogsschepen te bouwen en te onderhouden. Fort Kattenburg verloor zijn oorspronkelijke functie en werd omgevormd tot de omvangrijke marinewerf die bekend werd als ’s Lands Werf.
+Na de Eerste Engels-Nederlandse Zeeoorlog van 1652–1654 groeide bovendien de behoefte aan een beter georganiseerde oorlogsvloot. De Amsterdamse Admiraliteit kreeg meer middelen om zelf oorlogsschepen te bouwen en te onderhouden. Fort Kattenburg verloor zijn oorspronkelijke functie en werd omgevormd tot de omvangrijke marinewerf die bekend werd als ’s Lands Werf.[^8]
 
 Ook Wittenburg en Oostenburg kregen maritieme functies: particuliere scheepsbouw op Wittenburg en de VOC op Oostenburg. Op deze kaart van Daniël Stalpaert, als stadsarchitect onder andere verantwoordelijk voor het ontwerpen van de stadsuitleg van 1663 en's Lands Zeemagazijn, is dit goed te zien. Zo ontstond aan de oostzijde van Amsterdam een gespecialiseerd maritiem landschap waarin handel, scheepsbouw en oorlogvoering samenkwamen.
+
+[^8]: P. Brandon, *War, capitial and the Dutch state {1588-1795}* (Leiden 2015) 167-173. 

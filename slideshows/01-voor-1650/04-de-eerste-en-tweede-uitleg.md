@@ -12,9 +12,11 @@ warpedMaps:
 ---
 Tijdens de Eerste en Tweede Uitleg kwam de Lastage, die eeuwenlang buiten de stad had gelegen, binnen de nieuwe vestingwerken te liggen. De aanwezige scheepswerven namen veel ruimte in en werden steeds meer omringd door nieuwe bebouwing.
 
-Het stadsbestuur besloot daarom scheepsbouwactiviteiten te verplaatsen naar nieuw aangeplempte gebieden ten oosten van de Lastage. Zo ontstonden vanaf de jaren 1590 Uilenburg, de Marcken en Rapenburg.
+Het stadsbestuur besloot daarom scheepsbouwactiviteiten te verplaatsen naar nieuw aangeplempte gebieden ten oosten van de Lastage. Zo ontstonden vanaf de jaren 1590 Uilenburg, de Marcken en Rapenburg.[^4]
 
-Deze gebieden waren nadrukkelijk ingericht als werklandschappen, met scheepshellingen, houtopslagplaatsen en werkplaatsen langs het water. Toch bleken ook deze nieuwe locaties niet onbeperkt bruikbaar. Scheepstimmerlieden klaagden bijvoorbeeld dat de grachten rondom Uilenburg te smal waren om grotere schepen goed te water te laten. De groeiende scheepsbouw liep zo opnieuw tegen de ruimtelijke grenzen van de stad aan.
+
+Deze gebieden waren nadrukkelijk ingericht als werklandschappen, met scheepshellingen, houtopslagplaatsen en werkplaatsen langs het water. Toch bleken ook deze nieuwe locaties niet onbeperkt bruikbaar. Scheepstimmerlieden klaagden bijvoorbeeld dat de grachten rondom Uilenburg te smal waren om grotere schepen goed te water te laten.[^5]
+ De groeiende scheepsbouw liep zo opnieuw tegen de ruimtelijke grenzen van de stad aan.
 
 <!-- https://archief.amsterdam/beeldbank/detail/0518d8cb-b889-1a57-4c5e-e19513377b11 -->
 <figure data-image="https://images.memorix.nl/ams/iiif/b53ab424-c9a7-e8d8-a904-dc0d3b791870"
@@ -26,3 +28,6 @@ Het Afloopen (tewaterlating) Van een Schip op de oude Oost-Indische Werf op Rape
 
 </figcaption>
 </figure>
+
+[^4]: I. Mostert, tweede uitleg, Amsterdams verleden: een kijkje in het dagelijks leven in amsterdam in de periode 1550-1700 (21 juni 2014) https://amsterdamsverleden.nl/tweede-uitleg/. 
+[5^]: Ibidem. 

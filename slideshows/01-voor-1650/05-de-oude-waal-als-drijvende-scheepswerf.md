@@ -15,4 +15,6 @@ Hoewel de werven zich naar Uilenburg, de Marcken en Rapenburg verplaatsten, blee
 
 Op de werven werden vooral de rompen gebouwd. In de Oude Waal werden vervolgens masten geplaatst, tuigage aangebracht en schepen voorzien van ankers, geschut en voorraden. Nabijgelegen pakhuizen en werkplaatsen zorgden voor een snelle aanvoer van materialen.
 
-Maar ook de Oude Waal kende beperkingen. Opslibbing verminderde de toegankelijkheid en grotere schepen waren steeds moeilijker te behandelen. In de winter waren vooral het bergen en plaatsen van masten gevaarlijk. Deze problemen droegen uiteindelijk bij aan de inrichting van een tweede afbouwplaats: de Nieuwe Waal bij Bickerseiland.
+Maar ook de Oude Waal kende beperkingen. Opslibbing verminderde de toegankelijkheid en grotere schepen waren steeds moeilijker te behandelen. In de winter waren vooral het bergen en plaatsen van masten gevaarlijk. Deze problemen droegen uiteindelijk bij aan de inrichting van een tweede afbouwplaats: de Nieuwe Waal bij Bickerseiland.[^6]
+
+[^6]: J.L. Meijer, ‘de oostelijke eilanden {deel 1}’, Ons Amsterdam 41 (1989) https://onsamsterdam.nl/artikelen/de-oostelijke-eilanden-deel-1.

@@ -14,4 +14,6 @@ Vanaf 1613 begon Amsterdam aan de Derde Uitleg. De stad breidde vooral naar het 
 
 Tegelijkertijd veranderde de scheepsbouw zelf. De internationale handel en de groei van de VOC vergrootten de vraag naar grotere en zwaardere schepen. Uilenburg en de Marcken werden hiervoor steeds minder geschikt.
 
-Een deel van de grotere scheepsbouw verplaatste zich daarom naar de Westelijke Eilanden. Rond Bickerseiland kwamen nieuwe werven en voor de kust werd de Nieuwe Waal ingericht als afbouw- en ligplaats. Daarmee werd de druk op de Oude Waal verminderd. Toch bleef het stadsbestuur ook naar het oosten kijken, waar nieuwe plannen voor het gebied bij Rapenburg ontstonden.
+Een deel van de grotere scheepsbouw verplaatste zich daarom naar de Westelijke Eilanden. Rond Bickerseiland kwamen nieuwe werven en voor de kust werd de Nieuwe Waal ingericht als afbouw- en ligplaats. Daarmee werd de druk op de Oude Waal verminderd. Toch bleef het stadsbestuur ook naar het oosten kijken, waar nieuwe plannen voor het gebied bij Rapenburg ontstonden.[^7]
+
+[^7]: I. Mostert, derde uitleg, Amsterdams verleden: een kijkje in het dagelijks leven in amsterdam in de periode 1550-1700 (25 juli 2014) https://amsterdamsverleden.nl/derde-uitleg/. 
