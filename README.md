@@ -4,14 +4,14 @@ Content package for [`allmaps/slides`](https://github.com/allmaps/slides).
 
 ## Local preview
 
-Clone `slides`, add this repository as a content package, and run the dev server with the package name:
+Clone `slides`, add this repository as a content package, and run the dev server with the content directory:
 
 ```sh
 git clone https://github.com/allmaps/slides.git
 cd slides
 git submodule add https://github.com/amsterdamtimemachine/kattenburg-atlas.git content/kattenburg-atlas
 pnpm install
-pnpm exec slides dev kattenburg-atlas
+pnpm exec slides dev ./content/kattenburg-atlas
 ```
 
 Edit the files in `content/kattenburg-atlas/` while the dev server is running.
@@ -67,12 +67,12 @@ remain available without it, and loading failures show a retry button.
 ## Build
 
 ```sh
-pnpm exec slides build kattenburg-atlas
+pnpm exec slides build ./content/kattenburg-atlas
 ```
 
 ## Deployment
 
-Pushes to `main` run the GitHub Pages workflow. It checks out `slides` at the workspace root, checks out this repository at `content/kattenburg-atlas`, builds `kattenburg-atlas`, and deploys `apps/slides/build`.
+Pushes to `main` run the GitHub Pages workflow. It checks out `slides` at the workspace root, checks out this repository at `content/kattenburg-atlas`, builds `kattenburg-atlas`, and deploys `dist/site`.
 
 ### Container deployment
 
@@ -138,7 +138,7 @@ control its build settings. The Docker workflow defaults `PUBLIC_URL` to
 `https://kattenburg.amsterdamtimemachine.nl/`; setting `CONTAINER_PUBLIC_URL`
 overrides that default. GitHub Pages continues to use the URL in
 `slides.config.yml`, builds with Node/pnpm directly and exports
-`apps/slides/build`; Docker is not part of the Pages workflow.
+`dist/site`; Docker is not part of the Pages workflow.
 
 ### Build caches
 

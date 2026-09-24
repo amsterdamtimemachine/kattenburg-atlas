@@ -59,9 +59,9 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .container-cache/iiif
-          key: container-iiif-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          key: container-iiif-v2-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
-            container-iiif-v1-${{ runner.os }}-
+            container-iiif-v2-${{ runner.os }}-
 
       - name: Restore remote annotations
         uses: actions/cache@v6
@@ -75,30 +75,30 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .container-cache/thumbnails
-          key: container-thumbnails-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          key: container-thumbnails-v2-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
-            container-thumbnails-v1-${{ runner.os }}-
+            container-thumbnails-v2-${{ runner.os }}-
 
       # BuildKit cache mounts need explicit import/export on hosted runners.
       - name: Persist iiif build cache
         uses: reproducible-containers/buildkit-cache-dance@4b2444fec0c0fb9dbf175a96c094720a692ef810 # v2.1.4
         with:
           cache-source: .container-cache/iiif
-          cache-target: /app/apps/slides/.svelte-kit/iiif
+          cache-target: /app/node_modules/.vite/slides/iiif
           scratch-dir: .container-cache/scratch-iiif
 
       - name: Persist annotations build cache
         uses: reproducible-containers/buildkit-cache-dance@4b2444fec0c0fb9dbf175a96c094720a692ef810 # v2.1.4
         with:
           cache-source: .container-cache/annotations
-          cache-target: /app/apps/slides/.svelte-kit/annotations
+          cache-target: /app/node_modules/.vite/slides/annotations
           scratch-dir: .container-cache/scratch-annotations
 
       - name: Persist thumbnails build cache
         uses: reproducible-containers/buildkit-cache-dance@4b2444fec0c0fb9dbf175a96c094720a692ef810 # v2.1.4
         with:
           cache-source: .container-cache/thumbnails
-          cache-target: /app/apps/slides/.svelte-kit/thumbnails
+          cache-target: /app/node_modules/.vite/slides/thumbnails
           scratch-dir: .container-cache/scratch-thumbnails
 
       - name: Build and push Docker image

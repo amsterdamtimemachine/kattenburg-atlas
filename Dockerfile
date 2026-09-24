@@ -30,14 +30,14 @@ ARG PUBLIC_URL=
 ARG CACHE_EPOCH=0
 ENV PUBLIC_BASE_PATH=${PUBLIC_BASE_PATH}
 ENV PUBLIC_URL=${PUBLIC_URL}
-RUN --mount=type=cache,target=/app/apps/slides/.svelte-kit/iiif,sharing=locked \
-    --mount=type=cache,target=/app/apps/slides/.svelte-kit/annotations,sharing=locked \
-    --mount=type=cache,target=/app/apps/slides/.svelte-kit/thumbnails,sharing=locked \
+RUN --mount=type=cache,target=/app/node_modules/.vite/slides/iiif,sharing=locked \
+    --mount=type=cache,target=/app/node_modules/.vite/slides/annotations,sharing=locked \
+    --mount=type=cache,target=/app/node_modules/.vite/slides/thumbnails,sharing=locked \
     echo "Source cache generation: $CACHE_EPOCH" \
-    && export SLIDES_THUMBNAILS_CACHE_ROOT="/app/apps/slides/.svelte-kit/thumbnails/$(sha256sum pnpm-lock.yaml | cut -c1-16)" \
-    && xvfb-run -a pnpm exec slides build kattenburg-atlas \
+    && export SLIDES_THUMBNAILS_CACHE_ROOT="/app/node_modules/.vite/slides/thumbnails/$(sha256sum pnpm-lock.yaml | cut -c1-16)" \
+    && xvfb-run -a pnpm exec slides build ./content/kattenburg-atlas --outDir dist/site \
     && mkdir -p "/site/${PUBLIC_BASE_PATH#/}" \
-    && cp -a apps/slides/build/. "/site/${PUBLIC_BASE_PATH#/}/"
+    && cp -a dist/site/. "/site/${PUBLIC_BASE_PATH#/}/"
 
 # Runtime contains static files and Nginx, without the build tools or caches.
 FROM nginx:alpine AS runner

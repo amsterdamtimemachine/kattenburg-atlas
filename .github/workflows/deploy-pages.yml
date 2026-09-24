@@ -75,16 +75,16 @@ jobs:
         id: iiif-cache
         uses: actions/cache/restore@v6
         with:
-          path: apps/slides/.svelte-kit/iiif
-          key: iiif-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: node_modules/.vite/slides/iiif
+          key: iiif-v2-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
-            iiif-${{ runner.os }}
+            iiif-v2-${{ runner.os }}
 
       - name: Restore remote annotations
         if: ${{ !inputs.reset_annotations_cache }}
         uses: actions/cache/restore@v6
         with:
-          path: apps/slides/.svelte-kit/annotations
+          path: node_modules/.vite/slides/annotations
           key: annotations-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
             annotations-v1-${{ runner.os }}-
@@ -93,46 +93,38 @@ jobs:
         if: ${{ !inputs.reset_thumbnails_cache }}
         uses: actions/cache/restore@v6
         with:
-          path: apps/slides/.svelte-kit/thumbnails
-          key: thumbnails-v2-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: node_modules/.vite/slides/thumbnails
+          key: thumbnails-v3-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: |
-            thumbnails-v2-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-
+            thumbnails-v3-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-
 
       - name: Build static site
         id: build-static-site
         env:
           CONTENT_PATH: content/${{ github.event.repository.name }}
           PUBLIC_BASE_PATH: ${{ github.event.repository.name }}
-        run: |
-          package_name="$(jq -r '.name // empty' "$CONTENT_PATH/package.json")"
-
-          if [ -z "$package_name" ]; then
-            echo "::error::Missing package name in $CONTENT_PATH/package.json"
-            exit 1
-          fi
-
-          xvfb-run -a pnpm exec slides build "$package_name"
+        run: xvfb-run -a pnpm exec slides build "$CONTENT_PATH" --outDir dist/site
 
       - name: Save IIIF derivatives
         if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
-          path: apps/slides/.svelte-kit/iiif
-          key: iiif-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: node_modules/.vite/slides/iiif
+          key: iiif-v2-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Save remote annotations
         if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
-          path: apps/slides/.svelte-kit/annotations
+          path: node_modules/.vite/slides/annotations
           key: annotations-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Save thumbnails and map sources
         if: ${{ success() || steps.build-static-site.outcome == 'failure' }}
         uses: actions/cache/save@v6
         with:
-          path: apps/slides/.svelte-kit/thumbnails
-          key: thumbnails-v2-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: node_modules/.vite/slides/thumbnails
+          key: thumbnails-v3-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
@@ -140,7 +132,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: apps/slides/build
+          path: dist/site
 
   deploy:
     environment:
