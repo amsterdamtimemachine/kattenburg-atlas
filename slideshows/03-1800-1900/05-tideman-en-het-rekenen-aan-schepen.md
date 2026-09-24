@@ -1,9 +1,14 @@
 ---
 title: Tideman en het rekenen aan schepen
 warpedMaps:
-  - url: https://annotations.allmaps.org/images/24e1c323d0614019
-    homepage: https://n2t.net/ark:/33862/collect/655435
-    caption: "Plattegrond van de Rijkswerf te Amsterdam (1894)"
+  # - url: https://annotations.allmaps.org/images/24e1c323d0614019
+  #   homepage: https://n2t.net/ark:/33862/collect/655435
+  #   caption: "Plattegrond van de Rijkswerf te Amsterdam (1894)"
+  #   useBearing: true
+  - url: https://annotations.allmaps.org/maps/36213b08c1499ad1
+    caption: "Rijksmarinewerf te Amsterdam, 187, inv. no. 560-1686"
+    provenance: Noord-Hollands Archief
+    homepage: "https://hdl.handle.net/21.12102/ACCCAA7B9FE5433B8E1856F1EC9001FB"
     useBearing: true
 ---
 
