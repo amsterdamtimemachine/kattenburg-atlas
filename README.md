@@ -2,6 +2,19 @@
 
 Content package for [`allmaps/slides`](https://github.com/allmaps/slides).
 
+## Credits logos
+
+The institution logos live in `assets/logos/`, outside the IIIF source images.
+They are transparent SVGs, served directly as vectors. `-light.svg` versions are
+for light mode; `-dark.svg` versions use white elements for dark mode. SMF keeps
+its colored emblem in both themes. The compact UvA mark is available as
+`uva-small-light.svg` and `uva-small-dark.svg`; the credits use the full wordmark.
+
+`CREDITS.md` uses ordinary `<img>` tags with `src` and `data-dark-src`
+for each logo, without any imports. This follows the app's theme switch automatically and
+works in any slide or credits document. The `logo-grid` class lays out the links
+without text decoration or external-link icons; `logo-wide` spans both columns.
+
 ## Local preview
 
 Clone `slides`, add this repository as a content package, and run the dev server with the content directory:
