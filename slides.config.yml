@@ -2,6 +2,13 @@ title: Kattenburg Atlas
 description: Een maritiem-militaire microkosmos
 main: introductie
 credits: CREDITS.md
+theme:
+  light:
+    fg: "#bc0031"
+    bg: "#faebef"
+  dark:
+    fg: "#de8098"
+    bg: "#faebef"
 
 slideshows:
   - id: introductie
