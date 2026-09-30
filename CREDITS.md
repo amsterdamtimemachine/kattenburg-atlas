@@ -14,8 +14,8 @@ De atlas is ontwikkeld door de Faculteit Geesteswetenschappen van de Universitei
   <dd>Jules Schoonman, Bert Spaan, Manuel Claeys Bouuaert, Leon van Wissen</dd>
   <dt>Vormgeving</dt>
   <dd>Luuk van de Ven</dd>
-  <!-- <dt>Militaire projectie</dt>
-  <dd>Studio Grondwerk</dd> -->
+  <dt>Axonometrische tekeningen</dt>
+  <dd>Studio Grondwerk</dd>
 </dl>
 
 De Kattenburg Atlas maakt gebruikt van een open source template. Bekijk voor meer informatie de [broncode op GitHub](https://github.com/amsterdamtimemachine/kattenburg-atlas).
