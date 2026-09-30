@@ -23,18 +23,18 @@ G.R. Lambert & Co., Ramtorenschip ZR.MS. Koning der Nederlanden in Singapore, ca
 IIIF: https://i.micr.io/TDqLF/info.json
 -->
 
-De *Koning der Nederlanden* legde hiermee een voor Amsterdam oud probleem bloot: de toegang tot zee. Het IJ slibde dicht, de route via de Zuiderzee was omslachtig en het Noordhollandsch Kanaal uit 1824 bleek te beperkt voor grotere vaartuigen.[^6]
+De *Koning der Nederlanden* legde hiermee een voor Amsterdam oud probleem bloot: de toegang tot zee. Het IJ slibde dicht, de route via de Zuiderzee was omslachtig en het Noordhollandsch Kanaal uit 1824 bleek te beperkt voor grotere vaartuigen.[^1]
 
 <!-- naar kaart uit 1875: toont de nieuwe route naar zee door het Noordzeekanaal. -->
 
-De aanleg van het Noordzeekanaal moest dat veranderen. Vanaf 1865 werd gewerkt aan een nieuwe, directe verbinding tussen Amsterdam en de Noordzee. In 1876 voeren de eerste schepen door het kanaal; koning Willem III nam het op 1 november van dat jaar feestelijk in gebruik. Voor Amsterdam betekende dit een hernieuwde aansluiting op de internationale scheepvaart.[^7] 
+De aanleg van het Noordzeekanaal moest dat veranderen. Vanaf 1865 werd gewerkt aan een nieuwe, directe verbinding tussen Amsterdam en de Noordzee. In 1876 voeren de eerste schepen door het kanaal; koning Willem III nam het op 1 november van dat jaar feestelijk in gebruik. Voor Amsterdam betekende dit een hernieuwde aansluiting op de internationale scheepvaart.[^2] 
 
-Doordat de *Koning der Nederlanden* later gereed kwam dan gepland - pas in 1877, kon het alsnog gebruikmaken van het nieuwe kanaal en bleken de concessies die ten koste waren gegaan van snelheid onnodig te zijn geweest. Slechts een jaar later werd het eerste schip uit de *Atjeh*-klasse te water gelaten. Deze kruiser, ontwerpen aan de hand van de modelproeven van Tideman en zonder rekening te hoeven houden met nauwe doorgangen, haalde voor die tijd recordsnelheden.[^8]
+Doordat de *Koning der Nederlanden* later gereed kwam dan gepland - pas in 1877, kon het alsnog gebruikmaken van het nieuwe kanaal en bleken de concessies die ten koste waren gegaan van snelheid onnodig te zijn geweest. Slechts een jaar later werd het eerste schip uit de *Atjeh*-klasse te water gelaten. Deze kruiser, ontwerpen aan de hand van de modelproeven van Tideman en zonder rekening te hoeven houden met nauwe doorgangen, haalde voor die tijd recordsnelheden.[^3]
 
 Voor de Rijkswerf was het kanaal belangrijk, maar geen wondermiddel. Het maakte de route naar zee korter en strategisch aantrekkelijker voor moderne stoom- en pantserschepen. Tegelijk bleef de werf gebonden aan haar eigen ligging aan het Oosterdok, met sluizen, dokken en stedelijke infrastructuur direct om haar heen. Bovendien was het Noordzeekanaal bij de opening nog niet meteen diep genoeg voor alle grote schepen; verdere uitbaggering bleef nodig.
 
  In de negentiende-eeuwse marinescheepsbouw liep innovatie voortdurend achter de feiten aan. Een schip kon bij de tewaterlating hypermodern lijken, terwijl het bij ingebruikname eigenlijk alweer verouderd was. De werf moest blijven aanpassen, terwijl iedere oplossing tijdelijk leek.
 
-  [^6]: *Geschiedenis van de Techniek in Nederland*. 4, 91-92.
-  [^7]: Amsterdam, “1876 Noordzeekanaal”, webpagina, Stadsarchief, Gemeente Amsterdam, geraadpleegd 23 juni 2026, https://www.amsterdam.nl/stadsarchief/canon/venster/30/.
-  [^8]: *Geschiedenis van de Techniek in Nederland*. 4, 92-93.
+  [^1]: *Geschiedenis van de Techniek in Nederland*. 4, 91-92.
+  [^2]: Amsterdam, “1876 Noordzeekanaal”, webpagina, Stadsarchief, Gemeente Amsterdam, geraadpleegd 23 juni 2026, https://www.amsterdam.nl/stadsarchief/canon/venster/30/.
+  [^3]: *Geschiedenis van de Techniek in Nederland*. 4, 92-93.

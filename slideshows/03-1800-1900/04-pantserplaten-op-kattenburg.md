@@ -10,7 +10,7 @@ warpedMaps:
     caption: Stadsarchief Amsterdam
     useBearing: true
 ---
-In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren en gepantserde schepen. Er kwamen voorzieningen voor het bewerken van pantserplaten, waaronder een gloeioven en een galvaniseerinrichting. De bedoeling was aanvankelijk om buitenlandse voorbeelden na te bouwen en zo ervaring op te doen met een nieuw type oorlogsschip.[^4] 
+In 1867 werd de Amsterdamse Rijkswerf geschikt gemaakt voor de bouw van ijzeren en gepantserde schepen. Er kwamen voorzieningen voor het bewerken van pantserplaten, waaronder een gloeioven en een galvaniseerinrichting. De bedoeling was aanvankelijk om buitenlandse voorbeelden na te bouwen en zo ervaring op te doen met een nieuw type oorlogsschip.[^1] 
 
 Een pantserschip vroeg veel meer van een werf dan een houten fregat. IJzeren platen moesten worden gevormd, verhit, bevestigd en gecombineerd met zware kanonnen, stoommachines en bepantserde torens. De werf werd daardoor zwaarder, industriëler en technischer. 
 
@@ -31,4 +31,4 @@ IIIF Versie uit Delft:
 https://heritage.tudelft.nl/nl/objects/trg-9301-c-01
 -->
 
-[^4]:  Lintsen en Bakker, *Geschiedenis van de techniek in Nederland*; Doorn van, “Cultuurhistorisch onderzoek en waardering Deel 1: het terrein”, 35\.
+[^1]:  Lintsen en Bakker, *Geschiedenis van de techniek in Nederland*; Doorn van, “Cultuurhistorisch onderzoek en waardering Deel 1: het terrein”, 35\.
