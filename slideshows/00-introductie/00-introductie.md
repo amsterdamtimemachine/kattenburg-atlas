@@ -5,9 +5,16 @@ location:
   # center: [4.9170172, 52.3741874]
   # zoom: 17
 warpedMaps:
-  - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
-    homepage: https://archief.amsterdam/
-    caption: Stadsarchief Amsterdam
+  - url: https://annotations.allmaps.org/maps/5f224c2f19b228af
+    caption: "Axonometrie, Studio Grondwerk"
+    options:
+      removeColor: true
+      removeColorColor: "#FFFFFF"
+      colorize: true
+      colorizeColor: "#000000"
+    darkOptions:
+      colorizeColor: "#FFFFFF"
+      removeColorThreshold: 0.8
 # subslideshows:
 #   - voor-1650
 #   - 1700-1800

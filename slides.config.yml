@@ -16,9 +16,18 @@ slideshows:
     title: Kattenburg Atlas
     start:
       location:
+        center: [4.918328,52.373881]
         zoom: 17
       warpedMaps:
-        - url: https://annotations.allmaps.org/maps/69517d5d4edf8b19
+        - url: https://annotations.allmaps.org/maps/5f224c2f19b228af
+          options:
+            removeColor: true
+            removeColorColor: "#FFFFFF"
+            colorize: true
+            colorizeColor: "#000000"
+            removeColorThreshold: 0.8
+          darkOptions:
+            colorizeColor: "#FFFFFF"
       hideBasemap: true
 
   - id: voor-1650
@@ -72,7 +81,7 @@ interface:
     chapterPosition: "Hoofdstuk {current} van {total}"
     chapterCounter: "{current} / {total}"
     slideshowProgress: "Voortgang"
-    mapLayers: "Kaarten"
+    mapLayers: "Kaartlagen"
     backgroundMap: "Achtergrondkaart"
     chapters: "Inhoudsopgave"
     lightMode: "Lichte weergave"
@@ -103,7 +112,8 @@ interface:
     visibleLayerPlural: "{count} kaarten zichtbaar"
     hiddenLayerCount: "{visible}, {count} verborgen"
     openInAllmaps: "Openen in Allmaps"
-    zoomToMapLayer: "Inzoomen op kaart"
+    showFullMap: "Volledige kaart tonen"
+    restoreMapView: "Diaweergave herstellen"
     noWarpedMaps: "Deze dia bevat geen gegeorefereerde kaarten."
     showTextPanel: "Tekstpaneel tonen"
     reduceTextPanel: "Tekstpaneel verkleinen"
