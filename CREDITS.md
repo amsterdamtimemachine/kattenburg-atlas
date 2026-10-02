@@ -37,7 +37,4 @@ De Kattenburg Atlas maakt gebruikt van een open source template. Bekijk voor mee
   <a class="logo-wide" href="https://www.tudelft.nl/" target="_blank" rel="noreferrer">
     <img src="assets/logos/tudelft-light.svg" data-dark-src="assets/logos/tudelft-dark.svg" alt="TU Delft" height="50" />
   </a>
-   <a class="logo-wide" href="https://allmaps.org/" target="_blank" rel="noreferrer">
-    <img src="assets/logos/allmaps-light.svg" data-dark-src="assets/logos/allmaps-dark.svg" alt="Allmaps" height="50" />
-  </a>
 </div>

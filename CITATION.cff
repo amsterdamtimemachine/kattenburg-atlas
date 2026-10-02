@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: >-
+  If you use or reference the Kattenburg Atlas, please cite it using the
+  metadata in this file.
+type: software
+title: Kattenburg Atlas
+abstract: >-
+  Een interactieve digitale atlas over de geschiedenis van Kattenburg en het
+  Marineterrein in Amsterdam, met historische kaarten, beelden en verhalen
+  over de ontwikkeling van de scheepswerf, vlootbasis en omliggende wijk.
+url: https://kattenburg.amsterdamtimemachine.nl/
+repository-code: https://github.com/amsterdamtimemachine/kattenburg-atlas
+# Contributors follow the colophon in slideshows/00-introductie/00-introductie.md.
+# Each person is listed once, even when credited in multiple roles.
+authors:
+  # Concept, coördinatie en begeleiding
+  - family-names: Baudet
+    given-names: Floribert
+    affiliation: Universiteit van Amsterdam
+  - family-names: Netten
+    given-names: Djoeke
+    name-particle: van
+    affiliation: Universiteit van Amsterdam
+  - family-names: Koopmans
+    given-names: Boudewijn
+    affiliation: Universiteit van Amsterdam
+  - family-names: Schoonman
+    given-names: Jules
+    affiliation: TU Delft
+  # Teksten en redactie
+  - family-names: Datema
+    given-names: Jelmer
+  - family-names: Höcker
+    given-names: Mick
+  - family-names: Meij
+    given-names: Nina
+    name-particle: van der
+  - family-names: Graaff
+    given-names: Sean
+    name-particle: de
+  - family-names: Breggen
+    given-names: Michel
+    name-particle: van der
+  - family-names: Kuperus
+    given-names: Wessel
+  # Ontwikkeling applicatie (also Jules Schoonman, listed above)
+  - family-names: Spaan
+    given-names: Bert
+  - family-names: Claeys Bouuaert
+    given-names: Manuel
+  - family-names: Wissen
+    given-names: Leon
+    name-particle: van
+  # Vormgeving
+  - family-names: Ven
+    given-names: Luuk
+    name-particle: van de
+    # Axonometrie
+  - family-names: Verdoes
+    given-names: Jesse
+    affiliation: Studio Grondwerk
+keywords:
+  - Kattenburg
+  - Marineterrein
+  - Amsterdam
+  - historical maps
+  - maritime history
+  - digital atlas
+  - allmaps

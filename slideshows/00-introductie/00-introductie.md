@@ -7,6 +7,7 @@ location:
 warpedMaps:
   - url: https://annotations.allmaps.org/maps/5f224c2f19b228af
     caption: "Axonometrie, Studio Grondwerk"
+    homepage: "https://studiogrondwerk.nl/"
     options:
       removeColor: true
       removeColorColor: "#FFFFFF"
