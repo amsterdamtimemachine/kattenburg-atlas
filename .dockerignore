@@ -7,3 +7,6 @@
 .container-cache
 .env
 .env.*
+
+**/dist
+**/.slides
