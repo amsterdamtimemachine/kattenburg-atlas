@@ -14,7 +14,7 @@ warpedMaps:
 
 <!--
 Kaart op pg 36. https://openresearch.amsterdam/nl/page/78696/cultuurhistorisch-onderzoek-marineterrein
-Komt uit: Alen Lemmers, Van werf tot facilitair complex : 350 jaar marinegeschiedenis op Kattenburg (2005)
+Komt uit: Alan Lemmers, Van werf tot facilitair complex : 350 jaar marinegeschiedenis op Kattenburg (2005)
 Uit welk archief?
 -->
 
@@ -40,5 +40,5 @@ https://collectie.hetscheepvaartmuseum.nl/IIIF/collect/655513/manifest.json
 Op het Marineterrein werd dus naast gebouwd, ook veel geëxperimenteerd. Onder leiding van Tideman werd de Rijkswerf in Amsterdam in 1876 de eerste ter wereld waar niet alleen door de overheid voor de marine, maar ook door particulieren voor de koopvaardij onderzoek naar de vorm van schepen gedaan kon worden. De werf was daarmee een soort laboratorium waar arbeiders en ingenieurs samenwerkten in een poging om met modellen het ideale oorlogsschip te ontwerpen. De moderne marine begon dus niet alleen op de helling, maar ook in het meetbassin.[^2]
 
 [^1]: Ter gelegenheid van de eerste modelproeven door Tideman 150 jaar geleden, verscheen in 2025 de publicatie *PartnerSHIP: Van Tideman tot Dutch Naval Design* van Joke Korteweg.
-[^2]: *Geschiedenis van de Techniek in Nederland*. 4: Delfstoffen, maschine- en scheepsbouw: stoom, chemie, telegrafie en telefonie (Stichting Historie der Techniek [u.a.], 1993), 92-93.
+[^2]: *Geschiedenis van de Techniek in Nederland*. 4: Delfstoffen, machine- en scheepsbouw: stoom, chemie, telegrafie en telefonie (Stichting Historie der Techniek [u.a.], 1993), 92-93.
 

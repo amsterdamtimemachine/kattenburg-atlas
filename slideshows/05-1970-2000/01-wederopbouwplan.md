@@ -4,7 +4,7 @@ description:
 warpedMaps:
   - url: https://annotations.allmaps.org/maps/398a0e0221752be2
     homepage: https://archief.amsterdam/inventarissen/details/10057/path/237.40
-    caption: "44165 Plattegrond Kattenburg Amsterdam. Situatie Kattenburg bergensd door Grote Kattenburgerstraat, Mariniersstraat, Kattenburgerkade, Kattenburgervoorstraat en Kattenburgerplein ten behoeve van Monumenten Zorg. 1966"
+    caption: "44165 Plattegrond Kattenburg Amsterdam. Situatie Kattenburg begrensd door Grote Kattenburgerstraat, Mariniersstraat, Kattenburgerkade, Kattenburgervoorstraat en Kattenburgerplein ten behoeve van Monumenten Zorg. 1966"
     useBearing: true
 # location:
 #   center: [4.918, 52.371]
@@ -16,7 +16,7 @@ En: ‘Het zou niet tot een bevredigende oplossing kunnen leiden, wanneer slecht
 
 <!-- Afbeelding: https://archief.amsterdam/beeldbank/detail/7fd709db-b5dc-4487-f81c-31f0c4114b23 -->
 
-De sloop van Kattenburg betekende grote veranderingen voor de wijk. In de plaats van de gesloopte huizenblokken kwam nieuwbouw. Ook de activiteiten op en rond het Marineterrein veranderenden van vorm. De aanleg van de IJ-tunnel zorgde voor een ingrijpende verandering op de kaart van het Marineterrein.
+De sloop van Kattenburg betekende grote veranderingen voor de wijk. In de plaats van de gesloopte huizenblokken kwam nieuwbouw. Ook de activiteiten op en rond het Marineterrein veranderden van vorm. De aanleg van de IJ-tunnel zorgde voor een ingrijpende verandering op de kaart van het Marineterrein.
 Van het oude Kattenburg zelf bleef eigenlijk niets over. Zelfs de historische gevels aan het Kattenburgerplein zijn een reconstructie...
 
 <!-- https://archief.amsterdam/beeldbank/detail/917fadfa-93b1-a5c1-aa58-bb9b126451a7 -->
